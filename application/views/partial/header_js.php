@@ -56,4 +56,5 @@
 		setup_csrf_token();
 		submit.apply(this, arguments);
 	};
+	
 </script>
