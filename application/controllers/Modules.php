@@ -37,11 +37,29 @@ class Modules extends Secure_Controller
         echo json_encode(array('total' => $total_rows, 'rows' => $data_rows));
     }
     public function view($module_id = -1)
-	{
-		
+    {
 
-		$data = '';
 
-		$this->load->view("modules/form", $data);
-	}
+        $data = '';
+
+        $this->load->view("modules/form", $data);
+    }
+    public function save($module_id = -1)
+    {
+        // echo json_encode($this->input->post('sort'));
+        // die();
+        $module_data = array(
+            'module_id' => $this->input->post('module_id'),
+            'name_lang_key' => $this->input->post('name_lang_key'),
+            'desc_lang_key' => $this->input->post('desc_lang_key'),
+            'sort' => $this->input->post('sort') == '' ? 99 : $this->input->post('sort'),
+            'status' => $this->input->post('status') == NULL ? 0 : $this->input->post('status')
+        );
+        if ($this->Module->save($module_data)) {
+            if ($module_id == -1) {
+                echo json_encode(array('success' => TRUE, 'message' => $this->lang->line('modules_successful_adding') . ' ' .
+								$module_data['module_id'], 'id' => $module_data['name_lang_key']));
+            }
+        }
+    }
 }

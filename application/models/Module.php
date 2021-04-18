@@ -145,4 +145,31 @@ class Module extends CI_Model
 	{
 		return $this->search('', 0, 0, 'status', 'asc', TRUE);
 	}
+	/*
+	Inserts or updates a giftcard
+	*/
+	public function save($module_data)
+	{
+		if($this->db->insert('modules', $module_data)){
+
+			return true;
+		}
+		return false;
+		// if(!$giftcard_id || !$this->exists($giftcard_id))
+		// {
+		// 	if($this->db->insert('giftcards', $giftcard_data))
+		// 	{
+		// 		$giftcard_data['giftcard_number'] = $this->db->insert_id();
+		// 		$giftcard_data['giftcard_id'] = $this->db->insert_id();
+
+		// 		return TRUE;
+		// 	}
+
+		// 	return FALSE;
+		// }
+
+		// $this->db->where('giftcard_id', $giftcard_id);
+
+		// return $this->db->update('giftcards', $giftcard_data);
+	}
 }
