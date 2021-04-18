@@ -299,7 +299,10 @@ function get_module_data_row($module, $id)
 		'desc_lang_key' => $module->desc_lang_key,
 		'sort' => $module->sort,
 		'module_id' => $module->module_id,
-		'status' => $module->status,
+		'status' => "<div class='custom-control custom-switch'>
+		<input type='checkbox' class='custom-control-input' id='customSwitch1'>
+		<label class='custom-control-label' for='customSwitch1'>Toggle this switch element</label>
+	  </div>",
 		'edit' => anchor($controller_name."/view/$module->module_id", '<span class="glyphicon glyphicon-edit"></span>',
 			array('class'=>"modal-dlg", 'data-btn-submit' => $CI->lang->line('common_submit'), 'title'=>$CI->lang->line($controller_name.'_update')))
 	);

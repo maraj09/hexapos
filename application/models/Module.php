@@ -150,18 +150,18 @@ class Module extends CI_Model
 	*/
 	public function save($module_data, $module_id = '')
 	{
-		if ( $module_id != '') {
+		if ($module_id != '') {
 			$this->db->where('module_id', $module_id);
 			return $this->db->update('modules', $module_data);
-		}else{
+		} else {
 			if ($this->db->insert('modules', $module_data)) {
 
 				return true;
 			}
 			return false;
 		}
-		
-		
+
+
 		// if(!$giftcard_id || !$this->exists($giftcard_id))
 		// {
 		// 	if($this->db->insert('giftcards', $giftcard_data))
