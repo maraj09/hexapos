@@ -38,9 +38,17 @@ class Modules extends Secure_Controller
     }
     public function view($module_id = -1)
     {
-
-
-        $data = '';
+        
+        if ($module_id != -1) {
+            $module_info = $this->Module->get_info($module_id);
+            // echo json_encode($module_info->module_id);
+            // die();
+            $data['module_id'] = $module_info->module_id;
+            $data['name_lang_key'] = $module_info->name_lang_key;
+            $data['desc_lang_key'] = $module_info->desc_lang_key;
+            $data['sort'] = $module_info->sort;
+            $data['status'] = $module_info->status;
+        }
 
         $this->load->view("modules/form", $data);
     }
@@ -55,11 +63,22 @@ class Modules extends Secure_Controller
             'sort' => $this->input->post('sort') == '' ? 99 : $this->input->post('sort'),
             'status' => $this->input->post('status') == NULL ? 0 : $this->input->post('status')
         );
-        if ($this->Module->save($module_data)) {
+        if ($this->Module->save($module_data, $module_id)) {
+            $module_data = $this->xss_clean($module_data);
             if ($module_id == -1) {
                 echo json_encode(array('success' => TRUE, 'message' => $this->lang->line('modules_successful_adding') . ' ' .
 								$module_data['module_id'], 'id' => $module_data['name_lang_key']));
-            }
-        }
+            }else //Existing giftcard
+			{
+				echo json_encode(array('success' => TRUE, 'message' => $this->lang->line('modules_successful_updating') . ' ' .
+								$module_data['module_id'], 'id' => $module_data));
+			}
+        }else //failure
+		{
+			$module_data = $this->xss_clean($module_data);
+			
+			echo json_encode(array('success' => FALSE, 'message' => $this->lang->line('modules_error_adding_updating') . ' ' .
+							$module_data['module_id'], 'id' => -1));
+		}
     }
 }

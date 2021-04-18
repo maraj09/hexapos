@@ -14,7 +14,7 @@
 					'name' => 'module_id',
 					'id' => 'module_id',
 					'class' => 'form-control input-sm',
-					'value' => $giftcard_number
+					'value' => $module_id
 				)
 			); ?>
 		</div>
@@ -28,7 +28,7 @@
 					'name' => 'name_lang_key',
 					'id' => 'name_lang_key',
 					'class' => 'form-control input-sm',
-					'value' => $selected_person_name
+					'value' => $name_lang_key
 				)
 			); ?>
 		</div>
@@ -43,7 +43,7 @@
 					'name' => 'desc_lang_key',
 					'id' => 'desc_lang_key ',
 					'class' => 'form-control input-sm',
-					'value' => $giftcard_number
+					'value' => $desc_lang_key
 				)
 			); ?>
 		</div>
@@ -57,7 +57,7 @@
 					'name' => 'sort',
 					'id' => 'sort',
 					'class' => 'form-control input-sm',
-					'value' => $giftcard_number
+					'value' => $sort
 				)
 			); ?>
 		</div>
@@ -66,14 +66,20 @@
 	<div class="form-group form-group-sm">
 		<?php echo form_label($this->lang->line('status'), 'status', array('class' => 'control-label col-xs-3')); ?>
 		<div class='col-xs-4'>
-			<?php echo form_input(
+			<?php
+			if ($status != '') {
+				$checked = $status == 1 ? 'checked' : '';  
+			}else{
+				$checked = 'checked';
+			}
+			echo form_input(	
 				array(
 					'name' => 'status',
 					'type' => 'checkbox',
 					'id' => 'status',
 					'class' => 'form-check-input',
 					'value' => 1,
-					'checked' => TRUE
+					$checked => true,
 				),
 			); ?>
 			<label class="form-check-label">
@@ -112,7 +118,6 @@
 			submitHandler: function(form) {
 				$(form).ajaxSubmit({
 					success: function(response) {
-						console.log(response);
 						dialog_support.hide();
 						table_support.handle_submit("<?php echo site_url($controller_name); ?>", response);
 					},
