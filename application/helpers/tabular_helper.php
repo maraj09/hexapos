@@ -260,6 +260,50 @@ function get_customer_data_row($person, $stats)
 	));
 }
 
+/*
+Get the header for the module tabular view
+*/
+function get_module_manage_table_headers()
+{
+	$CI =& get_instance();
+
+	$headers = array(
+		array('id' => $CI->lang->line('common_id')),
+		array('name_lang_key' => $CI->lang->line('name_lang_key')),
+		array('desc_lang_key' => $CI->lang->line('desc_lang_key')),
+		array('sort' => $CI->lang->line('sort')),
+		array('module_id' => $CI->lang->line('module_id')),
+		array('status' => $CI->lang->line('status'))
+	);
+
+	if($CI->Employee->has_grant('messages', $CI->session->userdata('person_id')))
+	{
+		$headers[] = array('messages' => '', 'sortable' => FALSE);
+	}
+
+	return transform_headers($headers);
+}
+
+/*
+Get the html data row for the modules
+*/
+function get_module_data_row($module, $id)
+{
+	$CI =& get_instance();
+
+	$controller_name = strtolower(get_class($CI));
+
+	return array (
+		'id' => $id,
+		'name_lang_key' => $module->name_lang_key,
+		'desc_lang_key' => $module->desc_lang_key,
+		'sort' => $module->sort,
+		'module_id' => $module->module_id,
+		'status' => $module->status,
+		'edit' => anchor($controller_name."/view/$module->module_id", '<span class="glyphicon glyphicon-edit"></span>',
+			array('class'=>"modal-dlg", 'data-btn-submit' => $CI->lang->line('common_submit'), 'title'=>$CI->lang->line($controller_name.'_update')))
+	);
+}
 
 /*
 Get the header for the suppliers tabular view

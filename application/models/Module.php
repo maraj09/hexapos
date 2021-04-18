@@ -15,8 +15,7 @@ class Module extends CI_Model
 	{
 		$query = $this->db->get_where('modules', array('module_id' => $module_id), 1);
 
-		if($query->num_rows() == 1)
-		{
+		if ($query->num_rows() == 1) {
 			$row = $query->row();
 
 			return $this->lang->line($row->name_lang_key);
@@ -29,8 +28,7 @@ class Module extends CI_Model
 	{
 		$query = $this->db->get_where('modules', array('module_id' => $module_id), 1);
 
-		if($query->num_rows() == 1)
-		{
+		if ($query->num_rows() == 1) {
 			$row = $query->row();
 
 			return $this->lang->line($row->desc_lang_key);
@@ -95,12 +93,9 @@ class Module extends CI_Model
 	 */
 	public function set_show_office_group($show_office_group)
 	{
-		if($show_office_group)
-		{
+		if ($show_office_group) {
 			$sort = 999;
-		}
-		else
-		{
+		} else {
 			$sort = 0;
 		}
 
@@ -123,5 +118,31 @@ class Module extends CI_Model
 		$this->db->from('modules');
 		return $this->db->get()->row()->sort;
 	}
+	/**get_found_rows
+	 * This method is used to show all the modules
+	 */
+	public function search($search, $rows = 0, $limit_from = 0, $sort = 'status', $order = 'asc', $count_only = FALSE)
+	{
+		if ($count_only == TRUE) {
+			$this->db->select('COUNT(*) as count');
+			$this->db->from('modules');
+
+			return $this->db->get()->row()->count;
+		}
+		$this->db->select('*');
+		$this->db->from('modules');
+		// get_found_rows case
+
+
+		$this->db->order_by($sort, $order);
+
+		if ($rows > 0) {
+			$this->db->limit($rows, $limit_from);
+		}
+		return $this->db->get();
+	}
+	public function get_found_rows()
+	{
+		return $this->search('', 0, 0, 'status', 'asc', TRUE);
+	}
 }
-?>
