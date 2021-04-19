@@ -50,7 +50,7 @@ class Secure_Controller extends CI_Controller
 		{
 			$data['allowed_modules'][] = $module;
 		}
-
+		
 		$data['user_info'] = $logged_in_employee_info;
 		$data['controller_name'] = $module_id;
 

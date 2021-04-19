@@ -86,8 +86,11 @@
 
 		<!-- start minjs template tags -->
 		<script type="text/javascript" src="dist/opensourcepos.min.js?rel=32a09a5d0e"></script>
-		<script type="text/javascript" src="js/custom.js" defer></script>
 		<!-- end minjs template tags -->
+		<!-- start custom template tags -->
+		<script type="text/javascript" src="js/custom.js" defer></script>
+		<link rel="stylesheet" type="text/css" href="css/custom.css" />
+		<!-- end custom template tags -->
 	<?php endif; ?>
 
 	<?php $this->load->view('partial/header_js'); ?>

@@ -38,7 +38,7 @@ class Modules extends Secure_Controller
     }
     public function view($module_id = -1)
     {
-        
+
         if ($module_id != -1) {
             $module_info = $this->Module->get_info($module_id);
             // echo json_encode($module_info->module_id);
@@ -67,18 +67,42 @@ class Modules extends Secure_Controller
             $module_data = $this->xss_clean($module_data);
             if ($module_id == -1) {
                 echo json_encode(array('success' => TRUE, 'message' => $this->lang->line('modules_successful_adding') . ' ' .
-								$module_data['module_id'], 'id' => $module_data['name_lang_key']));
-            }else //Existing giftcard
-			{
-				echo json_encode(array('success' => TRUE, 'message' => $this->lang->line('modules_successful_updating') . ' ' .
-								$module_data['module_id'], 'id' => $module_data));
-			}
-        }else //failure
-		{
-			$module_data = $this->xss_clean($module_data);
-			
-			echo json_encode(array('success' => FALSE, 'message' => $this->lang->line('modules_error_adding_updating') . ' ' .
-							$module_data['module_id'], 'id' => -1));
-		}
+                    $module_data['module_id'], 'id' => $module_data['name_lang_key']));
+            } else //Existing giftcard
+            {
+                echo json_encode(array('success' => TRUE, 'message' => $this->lang->line('modules_successful_updating') . ' ' .
+                    $module_data['module_id'], 'id' => $module_data));
+            }
+        } else //failure
+        {
+            $module_data = $this->xss_clean($module_data);
+
+            echo json_encode(array('success' => FALSE, 'message' => $this->lang->line('modules_error_adding_updating') . ' ' .
+                $module_data['module_id'], 'id' => -1));
+        }
+    }
+    public function change_status($module_id)
+    {
+        $module_info = $this->Module->get_info($module_id);
+        $module_status = $module_info->status;
+        if ($module_status == 1) {
+            $status = 0;
+        }else{
+            $status = 1;
+        }
+        $module_data = array(
+            'status' => $status 
+        );
+        if ($this->Module->change_status($module_id, $module_data )) {
+                // echo json_encode(array('success' => TRUE, 'message' => $this->lang->line('modules_successful_updating') . ' ' .
+                //         $module_info['module_id'], 'id' => $module_info));
+                $this->load->helper('url');
+                redirect('modules', 'refresh');
+        }else{
+            // echo json_encode(array('success' => FALSE, 'message' => $this->lang->line('modules_error_updating') . ' ' .
+            //     $module_info['module_id'], 'id' => -1));
+            $this->load->helper('url');
+                redirect('modules', 'refresh');
+        }
     }
 }

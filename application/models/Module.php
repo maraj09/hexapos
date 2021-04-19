@@ -160,24 +160,6 @@ class Module extends CI_Model
 			}
 			return false;
 		}
-
-
-		// if(!$giftcard_id || !$this->exists($giftcard_id))
-		// {
-		// 	if($this->db->insert('giftcards', $giftcard_data))
-		// 	{
-		// 		$giftcard_data['giftcard_number'] = $this->db->insert_id();
-		// 		$giftcard_data['giftcard_id'] = $this->db->insert_id();
-
-		// 		return TRUE;
-		// 	}
-
-		// 	return FALSE;
-		// }
-
-		// $this->db->where('giftcard_id', $giftcard_id);
-
-		// return $this->db->update('giftcards', $giftcard_data);
 	}
 	public function get_info($module_id)
 	{
@@ -185,5 +167,10 @@ class Module extends CI_Model
 		$this->db->from('modules');
 		$this->db->where('module_id', $module_id);
 		return $this->db->get()->row();
+	}
+	public function change_status($module_id, $status)
+	{
+		$this->db->where('module_id', $module_id);
+			return $this->db->update('modules', $status);
 	}
 }

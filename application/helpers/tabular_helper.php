@@ -292,17 +292,14 @@ function get_module_data_row($module, $id)
 	$CI =& get_instance();
 
 	$controller_name = strtolower(get_class($CI));
-
+	$status = $module->status == 1 ? 'glyphicon glyphicon-ok success' : 'glyphicon glyphicon-remove danger';
 	return array (
 		'id' => $id,
 		'name_lang_key' => $module->name_lang_key,
 		'desc_lang_key' => $module->desc_lang_key,
 		'sort' => $module->sort,
 		'module_id' => $module->module_id,
-		'status' => "<div class='custom-control custom-switch'>
-		<input type='checkbox' class='custom-control-input' id='customSwitch1'>
-		<label class='custom-control-label' for='customSwitch1'>Toggle this switch element</label>
-	  </div>",
+		'status' => anchor($controller_name."/change_status/$module->module_id",'<span class=" ' . $status.  '  "></span>'),
 		'edit' => anchor($controller_name."/view/$module->module_id", '<span class="glyphicon glyphicon-edit"></span>',
 			array('class'=>"modal-dlg", 'data-btn-submit' => $CI->lang->line('common_submit'), 'title'=>$CI->lang->line($controller_name.'_update')))
 	);

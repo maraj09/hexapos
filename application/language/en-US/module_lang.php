@@ -1,6 +1,7 @@
 <?php 
 
 $lang["module_attributes"] = "Attributes";
+$lang["module_modules"] = "Modules";
 $lang["module_attributes_desc"] = "Add, Update, Delete, and Search attributes.";
 $lang["module_both"] = "Both";
 $lang["module_cashups"] = "Cashups";
