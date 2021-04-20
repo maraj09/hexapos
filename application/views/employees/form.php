@@ -10,9 +10,11 @@
 		<li role="presentation">
 			<a data-toggle="tab" href="#employee_login_info"><?php echo $this->lang->line("employees_login_info"); ?></a>
 		</li>
+		<?php if ($logged_in->person_id == 1) { ?>
 		<li role="presentation">
 			<a data-toggle="tab" href="#employee_permission_info"><?php echo $this->lang->line("employees_permission_info"); ?></a>
 		</li>
+		<?php } ?>
 	</ul>
 
 	<div class="tab-content">
@@ -98,8 +100,8 @@
 				</div>
 			</fieldset>
 		</div>
-
-		<div class="tab-pane" id="employee_permission_info">
+		<?php if ($logged_in->person_id == 1) { ?>
+			<div class="tab-pane" id="employee_permission_info">
 			<fieldset>
 				<p><?php echo $this->lang->line("employees_permission_desc"); ?></p>
 
@@ -148,6 +150,9 @@
 				</ul>
 			</fieldset>
 		</div>
+
+<?php	} ?>
+		
 	</div>
 <?php echo form_close(); ?>
 

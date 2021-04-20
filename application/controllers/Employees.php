@@ -14,6 +14,9 @@ class Employees extends Persons
 	*/
 	public function search()
 	{
+		// 
+		// echo json_encode($logged_in_employee_info);
+		// die();
 		$search = $this->input->get('search');
 		$limit  = $this->input->get('limit');
 		$offset = $this->input->get('offset');
@@ -81,6 +84,9 @@ class Employees extends Persons
 
 			$permissions[] = $permission;
 		}
+		$model = $this->Employee;
+		$logged_in_employee_info = $model->get_logged_in_employee_info();
+		$data['logged_in'] = $logged_in_employee_info;
 		$data['all_subpermissions'] = $permissions;
 
 		$this->load->view('employees/form', $data);
