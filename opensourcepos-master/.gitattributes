@@ -1,3 +1,0 @@
-dist/ merge=ours
-application/language/**/*.php merge=ours
-text=auto

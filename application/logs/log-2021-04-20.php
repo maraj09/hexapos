@@ -21915,3 +21915,11552 @@ INFO - 2021-04-20 03:23:55 --> File loaded: C:\Program Files\Ampps\www\hexapos\a
 INFO - 2021-04-20 03:23:55 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\employees/form.php
 INFO - 2021-04-20 03:23:55 --> Final output sent to browser
 DEBUG - 2021-04-20 03:23:55 --> Total execution time: 0.1803
+INFO - 2021-04-20 07:24:54 --> Config Class Initialized
+INFO - 2021-04-20 07:24:54 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:24:54 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:24:54 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:24:54 --> URI Class Initialized
+DEBUG - 2021-04-20 07:24:54 --> No URI present. Default controller set.
+INFO - 2021-04-20 07:24:54 --> Router Class Initialized
+INFO - 2021-04-20 07:24:54 --> Output Class Initialized
+INFO - 2021-04-20 07:24:54 --> Security Class Initialized
+DEBUG - 2021-04-20 07:24:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:24:54 --> CSRF cookie sent
+INFO - 2021-04-20 07:24:54 --> Input Class Initialized
+INFO - 2021-04-20 07:24:54 --> Language Class Initialized
+INFO - 2021-04-20 07:24:54 --> Loader Class Initialized
+INFO - 2021-04-20 07:24:54 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:24:54 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:24:54 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:24:54 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:24:54 --> User Agent Class Initialized
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:24:54 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:24:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:24:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:24:54 --> Encryption Class Initialized
+INFO - 2021-04-20 07:24:54 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Person" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Customer" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Employee" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Module" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Sale" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Expense" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Tax" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:24:54 --> Controller Class Initialized
+INFO - 2021-04-20 07:24:54 --> Migrations Class Initialized
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:24:54 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 03:24:54 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:24:54 --> Config Class Initialized
+INFO - 2021-04-20 07:24:54 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:24:54 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:24:54 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:24:54 --> URI Class Initialized
+INFO - 2021-04-20 07:24:54 --> Router Class Initialized
+INFO - 2021-04-20 07:24:54 --> Output Class Initialized
+INFO - 2021-04-20 07:24:54 --> Security Class Initialized
+DEBUG - 2021-04-20 07:24:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:24:54 --> CSRF cookie sent
+INFO - 2021-04-20 07:24:54 --> Input Class Initialized
+INFO - 2021-04-20 07:24:54 --> Language Class Initialized
+INFO - 2021-04-20 07:24:54 --> Loader Class Initialized
+INFO - 2021-04-20 07:24:54 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:24:54 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:24:54 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:24:54 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:24:54 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:24:54 --> User Agent Class Initialized
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:24:54 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:24:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:24:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:24:54 --> Encryption Class Initialized
+INFO - 2021-04-20 07:24:54 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Person" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Customer" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Employee" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Module" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Sale" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Expense" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Tax" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:24:54 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:24:54 --> Controller Class Initialized
+DEBUG - 2021-04-20 07:24:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:24:54 --> Migrations Class Initialized
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:24:54 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:24:54 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 03:24:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 03:24:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 03:24:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 03:24:54 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 03:24:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 03:24:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 03:24:54 --> Final output sent to browser
+DEBUG - 2021-04-20 03:24:54 --> Total execution time: 0.1447
+INFO - 2021-04-20 07:25:04 --> Config Class Initialized
+INFO - 2021-04-20 07:25:04 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:04 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:04 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:04 --> URI Class Initialized
+INFO - 2021-04-20 07:25:04 --> Router Class Initialized
+INFO - 2021-04-20 07:25:04 --> Output Class Initialized
+INFO - 2021-04-20 07:25:04 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:04 --> CSRF cookie sent
+INFO - 2021-04-20 07:25:04 --> Input Class Initialized
+INFO - 2021-04-20 07:25:04 --> Language Class Initialized
+INFO - 2021-04-20 07:25:04 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:04 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:04 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:04 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:04 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:04 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:04 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:04 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:04 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:04 --> Controller Class Initialized
+DEBUG - 2021-04-20 07:25:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:25:04 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:04 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 07:25:04 --> Config Class Initialized
+INFO - 2021-04-20 07:25:04 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:04 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:04 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:04 --> URI Class Initialized
+INFO - 2021-04-20 07:25:04 --> Router Class Initialized
+INFO - 2021-04-20 07:25:04 --> Output Class Initialized
+INFO - 2021-04-20 07:25:04 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:04 --> CSRF cookie sent
+INFO - 2021-04-20 07:25:04 --> Input Class Initialized
+INFO - 2021-04-20 07:25:04 --> Language Class Initialized
+INFO - 2021-04-20 07:25:04 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:04 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:04 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:04 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:04 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:04 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:04 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:04 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:04 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:04 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:04 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:04 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:04 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:04 --> Controller Class Initialized
+INFO - 2021-04-20 07:25:04 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:04 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:04 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 03:25:04 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 03:25:04 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 03:25:04 --> Final output sent to browser
+DEBUG - 2021-04-20 03:25:04 --> Total execution time: 0.1447
+INFO - 2021-04-20 07:25:13 --> Config Class Initialized
+INFO - 2021-04-20 07:25:13 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:13 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:13 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:13 --> URI Class Initialized
+INFO - 2021-04-20 07:25:13 --> Router Class Initialized
+INFO - 2021-04-20 07:25:13 --> Output Class Initialized
+INFO - 2021-04-20 07:25:13 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:13 --> Input Class Initialized
+INFO - 2021-04-20 07:25:13 --> Language Class Initialized
+INFO - 2021-04-20 07:25:13 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:13 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:13 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:13 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:13 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:13 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:13 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:13 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:13 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:13 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:13 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:13 --> Controller Class Initialized
+INFO - 2021-04-20 07:25:13 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:13 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 03:25:13 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:25:13 --> Config Class Initialized
+INFO - 2021-04-20 07:25:13 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:13 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:13 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:13 --> URI Class Initialized
+INFO - 2021-04-20 07:25:13 --> Router Class Initialized
+INFO - 2021-04-20 07:25:13 --> Output Class Initialized
+INFO - 2021-04-20 07:25:13 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:13 --> CSRF cookie sent
+INFO - 2021-04-20 07:25:13 --> Input Class Initialized
+INFO - 2021-04-20 07:25:13 --> Language Class Initialized
+INFO - 2021-04-20 07:25:13 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:13 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:13 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:13 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:13 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:13 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:13 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:13 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:13 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:13 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:13 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:13 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:13 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:13 --> Controller Class Initialized
+DEBUG - 2021-04-20 07:25:13 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:25:13 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:13 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:13 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 03:25:13 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 03:25:13 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 03:25:13 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 03:25:13 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 03:25:13 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 03:25:13 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 03:25:13 --> Final output sent to browser
+DEBUG - 2021-04-20 03:25:13 --> Total execution time: 0.1726
+INFO - 2021-04-20 07:25:15 --> Config Class Initialized
+INFO - 2021-04-20 07:25:15 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:15 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:15 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:15 --> URI Class Initialized
+INFO - 2021-04-20 07:25:15 --> Router Class Initialized
+INFO - 2021-04-20 07:25:15 --> Output Class Initialized
+INFO - 2021-04-20 07:25:15 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:15 --> CSRF cookie sent
+INFO - 2021-04-20 07:25:15 --> Input Class Initialized
+INFO - 2021-04-20 07:25:15 --> Language Class Initialized
+INFO - 2021-04-20 07:25:15 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:15 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:15 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:15 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:15 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:15 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:15 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:15 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:15 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:15 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:15 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:15 --> Controller Class Initialized
+DEBUG - 2021-04-20 07:25:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:25:15 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:15 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:15 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 03:25:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 03:25:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 03:25:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 03:25:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 03:25:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/office.php
+INFO - 2021-04-20 03:25:15 --> Final output sent to browser
+DEBUG - 2021-04-20 03:25:15 --> Total execution time: 0.1528
+INFO - 2021-04-20 07:25:16 --> Config Class Initialized
+INFO - 2021-04-20 07:25:16 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:16 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:16 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:16 --> URI Class Initialized
+INFO - 2021-04-20 07:25:16 --> Router Class Initialized
+INFO - 2021-04-20 07:25:16 --> Output Class Initialized
+INFO - 2021-04-20 07:25:16 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:16 --> CSRF cookie sent
+INFO - 2021-04-20 07:25:16 --> Input Class Initialized
+INFO - 2021-04-20 07:25:16 --> Language Class Initialized
+INFO - 2021-04-20 07:25:16 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:16 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:16 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:16 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:16 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:16 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:16 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:16 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:16 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:16 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:16 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:16 --> Controller Class Initialized
+DEBUG - 2021-04-20 07:25:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:25:16 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:16 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 03:25:16 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 03:25:16 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 03:25:16 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 03:25:16 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 03:25:16 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 03:25:16 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/manage.php
+INFO - 2021-04-20 03:25:16 --> Final output sent to browser
+DEBUG - 2021-04-20 03:25:16 --> Total execution time: 0.1523
+INFO - 2021-04-20 07:25:16 --> Config Class Initialized
+INFO - 2021-04-20 07:25:16 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:16 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:16 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:16 --> URI Class Initialized
+INFO - 2021-04-20 07:25:16 --> Router Class Initialized
+INFO - 2021-04-20 07:25:16 --> Output Class Initialized
+INFO - 2021-04-20 07:25:16 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:16 --> CSRF cookie sent
+INFO - 2021-04-20 07:25:16 --> Input Class Initialized
+INFO - 2021-04-20 07:25:16 --> Language Class Initialized
+INFO - 2021-04-20 07:25:16 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:16 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:16 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:16 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:16 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:16 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:16 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:16 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:16 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:16 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:16 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:16 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:16 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:16 --> Controller Class Initialized
+DEBUG - 2021-04-20 07:25:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:25:16 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:16 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:16 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 03:25:16 --> Final output sent to browser
+DEBUG - 2021-04-20 03:25:16 --> Total execution time: 0.1638
+INFO - 2021-04-20 07:25:17 --> Config Class Initialized
+INFO - 2021-04-20 07:25:17 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:17 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:17 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:17 --> URI Class Initialized
+INFO - 2021-04-20 07:25:17 --> Router Class Initialized
+INFO - 2021-04-20 07:25:17 --> Output Class Initialized
+INFO - 2021-04-20 07:25:17 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:17 --> CSRF cookie sent
+INFO - 2021-04-20 07:25:17 --> Input Class Initialized
+INFO - 2021-04-20 07:25:17 --> Language Class Initialized
+INFO - 2021-04-20 07:25:17 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:17 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:17 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:17 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:17 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:17 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:17 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:17 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:17 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:17 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:17 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:17 --> Controller Class Initialized
+DEBUG - 2021-04-20 07:25:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:25:17 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:17 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:17 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 03:25:17 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+ERROR - 2021-04-20 03:25:17 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 03:25:17 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\employees/form.php
+INFO - 2021-04-20 03:25:17 --> Final output sent to browser
+DEBUG - 2021-04-20 03:25:17 --> Total execution time: 0.2007
+INFO - 2021-04-20 07:25:20 --> Config Class Initialized
+INFO - 2021-04-20 07:25:20 --> Hooks Class Initialized
+DEBUG - 2021-04-20 07:25:20 --> UTF-8 Support Enabled
+INFO - 2021-04-20 07:25:20 --> Utf8 Class Initialized
+INFO - 2021-04-20 07:25:20 --> URI Class Initialized
+INFO - 2021-04-20 07:25:20 --> Router Class Initialized
+INFO - 2021-04-20 07:25:20 --> Output Class Initialized
+INFO - 2021-04-20 07:25:20 --> Security Class Initialized
+DEBUG - 2021-04-20 07:25:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 07:25:20 --> CSRF cookie sent
+INFO - 2021-04-20 07:25:20 --> Input Class Initialized
+INFO - 2021-04-20 07:25:20 --> Language Class Initialized
+INFO - 2021-04-20 07:25:20 --> Loader Class Initialized
+INFO - 2021-04-20 07:25:20 --> Helper loaded: form_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: url_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: text_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: locale_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: html_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: download_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: directory_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: migration_helper
+INFO - 2021-04-20 07:25:20 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 07:25:20 --> Database Driver Class Initialized
+INFO - 2021-04-20 07:25:20 --> Form Validation Class Initialized
+INFO - 2021-04-20 07:25:20 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 07:25:20 --> User Agent Class Initialized
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 07:25:20 --> Pagination Class Initialized
+DEBUG - 2021-04-20 07:25:20 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 07:25:20 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 07:25:20 --> Encryption Class Initialized
+INFO - 2021-04-20 07:25:20 --> Model "Appconfig" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Person" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Customer" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Employee" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Module" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Item" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Sale" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Supplier" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Inventory" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Receiving" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Giftcard" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Item_kit" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Stock_location" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Rewards" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Expense_category" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Expense" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Cashup" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Attribute" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Tax" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Tax_category" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Tax_code" initialized
+INFO - 2021-04-20 07:25:20 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 07:25:20 --> Controller Class Initialized
+DEBUG - 2021-04-20 07:25:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 07:25:20 --> Migrations Class Initialized
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 07:25:20 --> Database Forge Class Initialized
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 07:25:20 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 03:25:20 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+ERROR - 2021-04-20 03:25:20 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 03:25:20 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\employees/form.php
+INFO - 2021-04-20 03:25:20 --> Final output sent to browser
+DEBUG - 2021-04-20 03:25:20 --> Total execution time: 0.1963
+INFO - 2021-04-20 09:29:59 --> Config Class Initialized
+INFO - 2021-04-20 09:29:59 --> Hooks Class Initialized
+DEBUG - 2021-04-20 09:29:59 --> UTF-8 Support Enabled
+INFO - 2021-04-20 09:29:59 --> Utf8 Class Initialized
+INFO - 2021-04-20 09:29:59 --> URI Class Initialized
+INFO - 2021-04-20 09:29:59 --> Router Class Initialized
+INFO - 2021-04-20 09:29:59 --> Output Class Initialized
+INFO - 2021-04-20 09:29:59 --> Security Class Initialized
+DEBUG - 2021-04-20 09:29:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 09:29:59 --> CSRF cookie sent
+INFO - 2021-04-20 09:29:59 --> Input Class Initialized
+INFO - 2021-04-20 09:29:59 --> Language Class Initialized
+INFO - 2021-04-20 09:29:59 --> Loader Class Initialized
+INFO - 2021-04-20 09:29:59 --> Helper loaded: form_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: url_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: text_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: locale_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: html_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: download_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: directory_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: migration_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 09:29:59 --> Database Driver Class Initialized
+INFO - 2021-04-20 09:29:59 --> Form Validation Class Initialized
+INFO - 2021-04-20 09:29:59 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 09:29:59 --> User Agent Class Initialized
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 09:29:59 --> Pagination Class Initialized
+DEBUG - 2021-04-20 09:29:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 09:29:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 09:29:59 --> Encryption Class Initialized
+INFO - 2021-04-20 09:29:59 --> Model "Appconfig" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Person" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Customer" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Employee" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Module" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Sale" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Supplier" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Inventory" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Receiving" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Giftcard" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item_kit" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Stock_location" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Rewards" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Expense_category" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Expense" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Cashup" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Attribute" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Tax" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Tax_category" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Tax_code" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 09:29:59 --> Controller Class Initialized
+INFO - 2021-04-20 09:29:59 --> Config Class Initialized
+INFO - 2021-04-20 09:29:59 --> Hooks Class Initialized
+DEBUG - 2021-04-20 09:29:59 --> UTF-8 Support Enabled
+INFO - 2021-04-20 09:29:59 --> Utf8 Class Initialized
+INFO - 2021-04-20 09:29:59 --> URI Class Initialized
+INFO - 2021-04-20 09:29:59 --> Router Class Initialized
+INFO - 2021-04-20 09:29:59 --> Output Class Initialized
+INFO - 2021-04-20 09:29:59 --> Security Class Initialized
+DEBUG - 2021-04-20 09:29:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 09:29:59 --> CSRF cookie sent
+INFO - 2021-04-20 09:29:59 --> Input Class Initialized
+INFO - 2021-04-20 09:29:59 --> Language Class Initialized
+INFO - 2021-04-20 09:29:59 --> Loader Class Initialized
+INFO - 2021-04-20 09:29:59 --> Helper loaded: form_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: url_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: text_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: locale_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: html_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: download_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: directory_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: migration_helper
+INFO - 2021-04-20 09:29:59 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 09:29:59 --> Database Driver Class Initialized
+INFO - 2021-04-20 09:29:59 --> Form Validation Class Initialized
+INFO - 2021-04-20 09:29:59 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 09:29:59 --> User Agent Class Initialized
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 09:29:59 --> Pagination Class Initialized
+DEBUG - 2021-04-20 09:29:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 09:29:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 09:29:59 --> Encryption Class Initialized
+INFO - 2021-04-20 09:29:59 --> Model "Appconfig" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Person" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Customer" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Employee" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Module" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Sale" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Supplier" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Inventory" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Receiving" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Giftcard" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item_kit" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Stock_location" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Rewards" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Expense_category" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Expense" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Cashup" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Attribute" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Tax" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Tax_category" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Tax_code" initialized
+INFO - 2021-04-20 09:29:59 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 09:29:59 --> Controller Class Initialized
+INFO - 2021-04-20 09:29:59 --> Migrations Class Initialized
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 09:29:59 --> Database Forge Class Initialized
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 09:29:59 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 05:29:59 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 05:29:59 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 05:29:59 --> Final output sent to browser
+DEBUG - 2021-04-20 05:29:59 --> Total execution time: 0.2549
+INFO - 2021-04-20 13:35:15 --> Config Class Initialized
+INFO - 2021-04-20 13:35:15 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:35:15 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:35:15 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:35:15 --> URI Class Initialized
+INFO - 2021-04-20 13:35:15 --> Router Class Initialized
+INFO - 2021-04-20 13:35:15 --> Output Class Initialized
+INFO - 2021-04-20 13:35:15 --> Security Class Initialized
+DEBUG - 2021-04-20 13:35:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:35:15 --> Input Class Initialized
+INFO - 2021-04-20 13:35:15 --> Language Class Initialized
+INFO - 2021-04-20 13:35:15 --> Loader Class Initialized
+INFO - 2021-04-20 13:35:15 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:35:15 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:35:15 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:35:15 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:35:15 --> User Agent Class Initialized
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:35:15 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:35:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:35:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:35:15 --> Encryption Class Initialized
+INFO - 2021-04-20 13:35:15 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Person" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Customer" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Employee" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Module" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Sale" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Expense" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Tax" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:35:15 --> Controller Class Initialized
+INFO - 2021-04-20 13:35:15 --> Migrations Class Initialized
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:35:15 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:35:15 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:35:15 --> Config Class Initialized
+INFO - 2021-04-20 13:35:15 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:35:15 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:35:15 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:35:15 --> URI Class Initialized
+INFO - 2021-04-20 13:35:15 --> Router Class Initialized
+INFO - 2021-04-20 13:35:15 --> Output Class Initialized
+INFO - 2021-04-20 13:35:15 --> Security Class Initialized
+DEBUG - 2021-04-20 13:35:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:35:15 --> CSRF cookie sent
+INFO - 2021-04-20 13:35:15 --> Input Class Initialized
+INFO - 2021-04-20 13:35:15 --> Language Class Initialized
+INFO - 2021-04-20 13:35:15 --> Loader Class Initialized
+INFO - 2021-04-20 13:35:15 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:35:15 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:35:15 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:35:15 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:35:15 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:35:15 --> User Agent Class Initialized
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:35:15 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:35:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:35:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:35:15 --> Encryption Class Initialized
+INFO - 2021-04-20 13:35:15 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Person" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Customer" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Employee" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Module" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Sale" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Expense" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Tax" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:35:15 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:35:15 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:35:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:35:15 --> Migrations Class Initialized
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:35:15 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:35:15 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:35:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:35:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:35:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:35:15 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:35:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:35:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:35:15 --> Final output sent to browser
+DEBUG - 2021-04-20 09:35:15 --> Total execution time: 0.1945
+INFO - 2021-04-20 13:35:19 --> Config Class Initialized
+INFO - 2021-04-20 13:35:19 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:35:19 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:35:19 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:35:19 --> URI Class Initialized
+INFO - 2021-04-20 13:35:19 --> Router Class Initialized
+INFO - 2021-04-20 13:35:19 --> Output Class Initialized
+INFO - 2021-04-20 13:35:19 --> Security Class Initialized
+DEBUG - 2021-04-20 13:35:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:35:19 --> CSRF cookie sent
+INFO - 2021-04-20 13:35:19 --> Input Class Initialized
+INFO - 2021-04-20 13:35:19 --> Language Class Initialized
+INFO - 2021-04-20 13:35:19 --> Loader Class Initialized
+INFO - 2021-04-20 13:35:19 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:35:19 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:35:19 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:35:19 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:35:19 --> User Agent Class Initialized
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:35:19 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:35:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:35:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:35:19 --> Encryption Class Initialized
+INFO - 2021-04-20 13:35:19 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Person" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Customer" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Employee" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Module" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Sale" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Expense" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Tax" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:35:19 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:35:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:35:19 --> Migrations Class Initialized
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:35:19 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/en-US/taxes_lang.php
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "name_lang_key (TBD)"
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "desc_lang_key (TBD)"
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "sort (TBD)"
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "module_id (TBD)"
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "status (TBD)"
+INFO - 2021-04-20 09:35:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:35:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:35:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "modules_no_modules_to_display (TBD)"
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "modules_confirm_delete (TBD)"
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "modules_confirm_restore (TBD)"
+INFO - 2021-04-20 09:35:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "modules_new (TBD)"
+ERROR - 2021-04-20 09:35:19 --> Could not find the language line "modules_new (TBD)"
+INFO - 2021-04-20 09:35:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:35:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\modules/manage.php
+INFO - 2021-04-20 09:35:19 --> Final output sent to browser
+DEBUG - 2021-04-20 09:35:19 --> Total execution time: 0.1747
+INFO - 2021-04-20 13:35:19 --> Config Class Initialized
+INFO - 2021-04-20 13:35:19 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:35:19 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:35:19 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:35:19 --> URI Class Initialized
+INFO - 2021-04-20 13:35:19 --> Router Class Initialized
+INFO - 2021-04-20 13:35:19 --> Output Class Initialized
+INFO - 2021-04-20 13:35:19 --> Security Class Initialized
+DEBUG - 2021-04-20 13:35:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:35:19 --> CSRF cookie sent
+INFO - 2021-04-20 13:35:19 --> Input Class Initialized
+INFO - 2021-04-20 13:35:19 --> Language Class Initialized
+INFO - 2021-04-20 13:35:19 --> Loader Class Initialized
+INFO - 2021-04-20 13:35:19 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:35:19 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:35:19 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:35:19 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:35:19 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:35:19 --> User Agent Class Initialized
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:35:19 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:35:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:35:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:35:19 --> Encryption Class Initialized
+INFO - 2021-04-20 13:35:19 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Person" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Customer" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Employee" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Module" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Sale" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Expense" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Tax" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:35:19 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:35:19 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:35:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:35:19 --> Migrations Class Initialized
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:35:19 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:35:19 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:35:20 --> Language file loaded: language/en-US/taxes_lang.php
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:35:20 --> Could not find the language line "modules_update (TBD)"
+INFO - 2021-04-20 09:35:20 --> Final output sent to browser
+DEBUG - 2021-04-20 09:35:20 --> Total execution time: 0.2244
+INFO - 2021-04-20 13:38:22 --> Config Class Initialized
+INFO - 2021-04-20 13:38:22 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:38:22 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:38:22 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:38:22 --> URI Class Initialized
+DEBUG - 2021-04-20 13:38:22 --> No URI present. Default controller set.
+INFO - 2021-04-20 13:38:22 --> Router Class Initialized
+INFO - 2021-04-20 13:38:22 --> Output Class Initialized
+INFO - 2021-04-20 13:38:22 --> Security Class Initialized
+DEBUG - 2021-04-20 13:38:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:38:22 --> CSRF cookie sent
+INFO - 2021-04-20 13:38:22 --> Input Class Initialized
+INFO - 2021-04-20 13:38:22 --> Language Class Initialized
+INFO - 2021-04-20 13:38:22 --> Loader Class Initialized
+INFO - 2021-04-20 13:38:22 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:38:22 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:38:22 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:38:22 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:38:22 --> User Agent Class Initialized
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:38:22 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:38:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:38:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:38:22 --> Encryption Class Initialized
+INFO - 2021-04-20 13:38:22 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Person" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Customer" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Employee" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Module" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Sale" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Expense" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Tax" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:38:22 --> Controller Class Initialized
+INFO - 2021-04-20 13:38:22 --> Migrations Class Initialized
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:38:22 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:38:22 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:38:22 --> Config Class Initialized
+INFO - 2021-04-20 13:38:22 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:38:22 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:38:22 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:38:22 --> URI Class Initialized
+INFO - 2021-04-20 13:38:22 --> Router Class Initialized
+INFO - 2021-04-20 13:38:22 --> Output Class Initialized
+INFO - 2021-04-20 13:38:22 --> Security Class Initialized
+DEBUG - 2021-04-20 13:38:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:38:22 --> CSRF cookie sent
+INFO - 2021-04-20 13:38:22 --> Input Class Initialized
+INFO - 2021-04-20 13:38:22 --> Language Class Initialized
+INFO - 2021-04-20 13:38:22 --> Loader Class Initialized
+INFO - 2021-04-20 13:38:22 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:38:22 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:38:22 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:38:22 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:38:22 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:38:22 --> User Agent Class Initialized
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:38:22 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:38:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:38:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:38:22 --> Encryption Class Initialized
+INFO - 2021-04-20 13:38:22 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Person" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Customer" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Employee" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Module" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Sale" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Expense" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Tax" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:38:22 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:38:22 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:38:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:38:22 --> Migrations Class Initialized
+INFO - 2021-04-20 13:38:22 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:38:22 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:38:23 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:38:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:38:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:38:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:38:23 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:38:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:38:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:38:23 --> Final output sent to browser
+DEBUG - 2021-04-20 09:38:23 --> Total execution time: 0.1711
+INFO - 2021-04-20 13:38:41 --> Config Class Initialized
+INFO - 2021-04-20 13:38:41 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:38:41 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:38:41 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:38:41 --> URI Class Initialized
+INFO - 2021-04-20 13:38:41 --> Router Class Initialized
+INFO - 2021-04-20 13:38:41 --> Output Class Initialized
+INFO - 2021-04-20 13:38:41 --> Security Class Initialized
+DEBUG - 2021-04-20 13:38:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:38:41 --> CSRF cookie sent
+INFO - 2021-04-20 13:38:41 --> Input Class Initialized
+INFO - 2021-04-20 13:38:41 --> Language Class Initialized
+INFO - 2021-04-20 13:38:41 --> Loader Class Initialized
+INFO - 2021-04-20 13:38:41 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:38:41 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:38:41 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:38:41 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:38:41 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:38:41 --> User Agent Class Initialized
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:38:41 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:38:41 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:38:41 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:38:41 --> Encryption Class Initialized
+INFO - 2021-04-20 13:38:41 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Person" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Customer" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Employee" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Module" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Item" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Sale" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Expense" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Tax" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:38:41 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:38:41 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:38:41 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:38:41 --> Migrations Class Initialized
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:38:41 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:38:41 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:38:41 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:38:41 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:38:41 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:38:41 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:38:41 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/office.php
+INFO - 2021-04-20 09:38:41 --> Final output sent to browser
+DEBUG - 2021-04-20 09:38:41 --> Total execution time: 0.2151
+INFO - 2021-04-20 13:38:43 --> Config Class Initialized
+INFO - 2021-04-20 13:38:43 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:38:43 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:38:43 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:38:43 --> URI Class Initialized
+INFO - 2021-04-20 13:38:43 --> Router Class Initialized
+INFO - 2021-04-20 13:38:43 --> Output Class Initialized
+INFO - 2021-04-20 13:38:43 --> Security Class Initialized
+DEBUG - 2021-04-20 13:38:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:38:43 --> CSRF cookie sent
+INFO - 2021-04-20 13:38:43 --> Input Class Initialized
+INFO - 2021-04-20 13:38:43 --> Language Class Initialized
+INFO - 2021-04-20 13:38:43 --> Loader Class Initialized
+INFO - 2021-04-20 13:38:43 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:38:43 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:38:43 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:38:43 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:38:43 --> User Agent Class Initialized
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:38:43 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:38:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:38:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:38:43 --> Encryption Class Initialized
+INFO - 2021-04-20 13:38:43 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Person" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Customer" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Employee" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Module" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Sale" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Expense" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Tax" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:38:43 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:38:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:38:43 --> Migrations Class Initialized
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:38:43 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:38:43 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:38:43 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:38:43 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:38:43 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:38:43 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:38:43 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/manage.php
+INFO - 2021-04-20 09:38:43 --> Final output sent to browser
+DEBUG - 2021-04-20 09:38:43 --> Total execution time: 0.1795
+INFO - 2021-04-20 13:38:43 --> Config Class Initialized
+INFO - 2021-04-20 13:38:43 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:38:43 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:38:43 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:38:43 --> URI Class Initialized
+INFO - 2021-04-20 13:38:43 --> Router Class Initialized
+INFO - 2021-04-20 13:38:43 --> Output Class Initialized
+INFO - 2021-04-20 13:38:43 --> Security Class Initialized
+DEBUG - 2021-04-20 13:38:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:38:43 --> CSRF cookie sent
+INFO - 2021-04-20 13:38:43 --> Input Class Initialized
+INFO - 2021-04-20 13:38:43 --> Language Class Initialized
+INFO - 2021-04-20 13:38:43 --> Loader Class Initialized
+INFO - 2021-04-20 13:38:43 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:38:43 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:38:43 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:38:43 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:38:43 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:38:43 --> User Agent Class Initialized
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:38:43 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:38:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:38:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:38:43 --> Encryption Class Initialized
+INFO - 2021-04-20 13:38:43 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Person" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Customer" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Employee" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Module" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Sale" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Expense" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Tax" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:38:43 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:38:43 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:38:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:38:43 --> Migrations Class Initialized
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:38:43 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:38:43 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:38:43 --> Final output sent to browser
+DEBUG - 2021-04-20 09:38:43 --> Total execution time: 0.2014
+INFO - 2021-04-20 13:39:15 --> Config Class Initialized
+INFO - 2021-04-20 13:39:15 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:39:16 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:39:16 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:39:16 --> URI Class Initialized
+INFO - 2021-04-20 13:39:16 --> Router Class Initialized
+INFO - 2021-04-20 13:39:16 --> Output Class Initialized
+INFO - 2021-04-20 13:39:16 --> Security Class Initialized
+DEBUG - 2021-04-20 13:39:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:39:16 --> CSRF cookie sent
+INFO - 2021-04-20 13:39:16 --> Input Class Initialized
+INFO - 2021-04-20 13:39:16 --> Language Class Initialized
+INFO - 2021-04-20 13:39:16 --> Loader Class Initialized
+INFO - 2021-04-20 13:39:16 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:39:16 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:39:16 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:39:16 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:39:16 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:39:16 --> User Agent Class Initialized
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:39:16 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:39:16 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:39:16 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:39:16 --> Encryption Class Initialized
+INFO - 2021-04-20 13:39:16 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Person" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Customer" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Employee" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Module" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Item" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Sale" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Expense" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Tax" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:39:16 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:39:16 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:39:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:39:16 --> Migrations Class Initialized
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:39:16 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:39:16 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:39:16 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+ERROR - 2021-04-20 09:39:16 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:39:16 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\employees/form.php
+INFO - 2021-04-20 09:39:16 --> Final output sent to browser
+DEBUG - 2021-04-20 09:39:16 --> Total execution time: 0.2917
+INFO - 2021-04-20 13:40:12 --> Config Class Initialized
+INFO - 2021-04-20 13:40:12 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:12 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:12 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:12 --> URI Class Initialized
+INFO - 2021-04-20 13:40:12 --> Router Class Initialized
+INFO - 2021-04-20 13:40:12 --> Output Class Initialized
+INFO - 2021-04-20 13:40:12 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:12 --> CSRF cookie sent
+INFO - 2021-04-20 13:40:12 --> Input Class Initialized
+INFO - 2021-04-20 13:40:12 --> Language Class Initialized
+INFO - 2021-04-20 13:40:12 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:12 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:12 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:12 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:12 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:12 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:12 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:12 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:12 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:12 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:12 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:12 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:12 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:12 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:40:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:40:12 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:12 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:12 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 13:40:13 --> Config Class Initialized
+INFO - 2021-04-20 13:40:13 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:13 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:13 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:13 --> URI Class Initialized
+INFO - 2021-04-20 13:40:13 --> Router Class Initialized
+INFO - 2021-04-20 13:40:13 --> Output Class Initialized
+INFO - 2021-04-20 13:40:13 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:13 --> CSRF cookie sent
+INFO - 2021-04-20 13:40:13 --> Input Class Initialized
+INFO - 2021-04-20 13:40:13 --> Language Class Initialized
+INFO - 2021-04-20 13:40:13 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:13 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:13 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:13 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:13 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:13 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:13 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:13 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:13 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:13 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:13 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:13 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:13 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:13 --> Controller Class Initialized
+INFO - 2021-04-20 13:40:13 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:13 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:13 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:40:13 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 09:40:13 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 09:40:13 --> Final output sent to browser
+DEBUG - 2021-04-20 09:40:13 --> Total execution time: 0.1562
+INFO - 2021-04-20 13:40:23 --> Config Class Initialized
+INFO - 2021-04-20 13:40:23 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:23 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:23 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:23 --> URI Class Initialized
+INFO - 2021-04-20 13:40:23 --> Router Class Initialized
+INFO - 2021-04-20 13:40:23 --> Output Class Initialized
+INFO - 2021-04-20 13:40:23 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:23 --> CSRF cookie sent
+INFO - 2021-04-20 13:40:23 --> Input Class Initialized
+INFO - 2021-04-20 13:40:23 --> Language Class Initialized
+INFO - 2021-04-20 13:40:23 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:23 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:23 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:23 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:23 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:23 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:23 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:23 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:23 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:23 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:23 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:23 --> Controller Class Initialized
+INFO - 2021-04-20 13:40:23 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:23 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:23 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:40:23 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 09:40:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 09:40:23 --> Final output sent to browser
+DEBUG - 2021-04-20 09:40:23 --> Total execution time: 0.1925
+INFO - 2021-04-20 13:40:37 --> Config Class Initialized
+INFO - 2021-04-20 13:40:37 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:37 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:37 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:37 --> URI Class Initialized
+INFO - 2021-04-20 13:40:37 --> Router Class Initialized
+INFO - 2021-04-20 13:40:37 --> Output Class Initialized
+INFO - 2021-04-20 13:40:37 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:37 --> Input Class Initialized
+INFO - 2021-04-20 13:40:37 --> Language Class Initialized
+INFO - 2021-04-20 13:40:37 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:37 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:37 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:37 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:37 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:37 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:37 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:37 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:37 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:37 --> Controller Class Initialized
+INFO - 2021-04-20 13:40:37 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:37 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:40:37 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:40:37 --> Config Class Initialized
+INFO - 2021-04-20 13:40:37 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:37 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:37 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:37 --> URI Class Initialized
+INFO - 2021-04-20 13:40:37 --> Router Class Initialized
+INFO - 2021-04-20 13:40:37 --> Output Class Initialized
+INFO - 2021-04-20 13:40:37 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:37 --> CSRF cookie sent
+INFO - 2021-04-20 13:40:37 --> Input Class Initialized
+INFO - 2021-04-20 13:40:37 --> Language Class Initialized
+INFO - 2021-04-20 13:40:37 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:37 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:37 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:37 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:37 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:37 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:37 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:37 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:37 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:37 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:37 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:37 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:40:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:40:37 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:37 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:37 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:40:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:40:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:40:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:40:37 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:40:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:40:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:40:37 --> Final output sent to browser
+DEBUG - 2021-04-20 09:40:37 --> Total execution time: 0.1634
+INFO - 2021-04-20 13:40:44 --> Config Class Initialized
+INFO - 2021-04-20 13:40:44 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:44 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:44 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:44 --> URI Class Initialized
+INFO - 2021-04-20 13:40:44 --> Router Class Initialized
+INFO - 2021-04-20 13:40:44 --> Output Class Initialized
+INFO - 2021-04-20 13:40:44 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:44 --> CSRF cookie sent
+INFO - 2021-04-20 13:40:44 --> Input Class Initialized
+INFO - 2021-04-20 13:40:44 --> Language Class Initialized
+INFO - 2021-04-20 13:40:44 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:44 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:44 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:44 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:44 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:44 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:44 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:44 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:44 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:44 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:44 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:44 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:44 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:44 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:40:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:40:44 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:44 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:44 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:45 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:40:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:40:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:40:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:40:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:40:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/office.php
+INFO - 2021-04-20 09:40:45 --> Final output sent to browser
+DEBUG - 2021-04-20 09:40:45 --> Total execution time: 0.1822
+INFO - 2021-04-20 13:40:46 --> Config Class Initialized
+INFO - 2021-04-20 13:40:46 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:46 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:46 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:46 --> URI Class Initialized
+INFO - 2021-04-20 13:40:46 --> Router Class Initialized
+INFO - 2021-04-20 13:40:46 --> Output Class Initialized
+INFO - 2021-04-20 13:40:46 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:46 --> CSRF cookie sent
+INFO - 2021-04-20 13:40:46 --> Input Class Initialized
+INFO - 2021-04-20 13:40:46 --> Language Class Initialized
+INFO - 2021-04-20 13:40:46 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:46 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:46 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:46 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:46 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:47 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:47 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:47 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:47 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:47 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:47 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:47 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:47 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:40:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:40:47 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:47 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:40:47 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:40:47 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:40:47 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:40:47 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:40:47 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:40:47 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/manage.php
+INFO - 2021-04-20 09:40:47 --> Final output sent to browser
+DEBUG - 2021-04-20 09:40:47 --> Total execution time: 0.1767
+INFO - 2021-04-20 13:40:47 --> Config Class Initialized
+INFO - 2021-04-20 13:40:47 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:47 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:47 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:47 --> URI Class Initialized
+INFO - 2021-04-20 13:40:47 --> Router Class Initialized
+INFO - 2021-04-20 13:40:47 --> Output Class Initialized
+INFO - 2021-04-20 13:40:47 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:47 --> CSRF cookie sent
+INFO - 2021-04-20 13:40:47 --> Input Class Initialized
+INFO - 2021-04-20 13:40:47 --> Language Class Initialized
+INFO - 2021-04-20 13:40:47 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:47 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:47 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:47 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:47 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:47 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:47 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:47 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:47 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:47 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:47 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:47 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:47 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:47 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:40:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:40:47 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:47 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:47 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:40:47 --> Final output sent to browser
+DEBUG - 2021-04-20 09:40:47 --> Total execution time: 0.1848
+INFO - 2021-04-20 13:40:56 --> Config Class Initialized
+INFO - 2021-04-20 13:40:56 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:40:56 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:40:56 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:40:56 --> URI Class Initialized
+INFO - 2021-04-20 13:40:56 --> Router Class Initialized
+INFO - 2021-04-20 13:40:56 --> Output Class Initialized
+INFO - 2021-04-20 13:40:56 --> Security Class Initialized
+DEBUG - 2021-04-20 13:40:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:40:56 --> CSRF cookie sent
+INFO - 2021-04-20 13:40:56 --> Input Class Initialized
+INFO - 2021-04-20 13:40:56 --> Language Class Initialized
+INFO - 2021-04-20 13:40:56 --> Loader Class Initialized
+INFO - 2021-04-20 13:40:56 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:40:56 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:40:56 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:40:56 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:40:56 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:40:56 --> User Agent Class Initialized
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:40:56 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:40:56 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:40:56 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:40:56 --> Encryption Class Initialized
+INFO - 2021-04-20 13:40:56 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Person" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Customer" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Employee" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Module" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Item" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Sale" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Expense" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Tax" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:40:56 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:40:56 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:40:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:40:56 --> Migrations Class Initialized
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:40:56 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:40:56 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:40:56 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+INFO - 2021-04-20 09:40:56 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\employees/form.php
+INFO - 2021-04-20 09:40:56 --> Final output sent to browser
+DEBUG - 2021-04-20 09:40:56 --> Total execution time: 0.2161
+INFO - 2021-04-20 13:41:54 --> Config Class Initialized
+INFO - 2021-04-20 13:41:54 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:41:54 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:41:54 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:41:54 --> URI Class Initialized
+INFO - 2021-04-20 13:41:54 --> Router Class Initialized
+INFO - 2021-04-20 13:41:54 --> Output Class Initialized
+INFO - 2021-04-20 13:41:54 --> Security Class Initialized
+DEBUG - 2021-04-20 13:41:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:41:54 --> CSRF cookie sent
+INFO - 2021-04-20 13:41:54 --> Input Class Initialized
+INFO - 2021-04-20 13:41:54 --> Language Class Initialized
+INFO - 2021-04-20 13:41:54 --> Loader Class Initialized
+INFO - 2021-04-20 13:41:54 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:41:54 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:41:54 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:41:54 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:41:54 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:41:54 --> User Agent Class Initialized
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:41:54 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:41:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:41:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:41:54 --> Encryption Class Initialized
+INFO - 2021-04-20 13:41:54 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Person" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Customer" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Employee" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Module" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Item" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Sale" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Expense" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Tax" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:41:54 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:41:54 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:41:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:41:54 --> Migrations Class Initialized
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:41:54 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:41:54 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/taxes_lang.php
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "name_lang_key (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "desc_lang_key (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "sort (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "module_id (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "status (TBD)"
+INFO - 2021-04-20 09:41:55 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:41:55 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:41:55 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_no_modules_to_display (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_confirm_delete (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_confirm_restore (TBD)"
+INFO - 2021-04-20 09:41:55 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_new (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_new (TBD)"
+INFO - 2021-04-20 09:41:55 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:41:55 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\modules/manage.php
+INFO - 2021-04-20 09:41:55 --> Final output sent to browser
+DEBUG - 2021-04-20 09:41:55 --> Total execution time: 0.1964
+INFO - 2021-04-20 13:41:55 --> Config Class Initialized
+INFO - 2021-04-20 13:41:55 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:41:55 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:41:55 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:41:55 --> URI Class Initialized
+INFO - 2021-04-20 13:41:55 --> Router Class Initialized
+INFO - 2021-04-20 13:41:55 --> Output Class Initialized
+INFO - 2021-04-20 13:41:55 --> Security Class Initialized
+DEBUG - 2021-04-20 13:41:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:41:55 --> CSRF cookie sent
+INFO - 2021-04-20 13:41:55 --> Input Class Initialized
+INFO - 2021-04-20 13:41:55 --> Language Class Initialized
+INFO - 2021-04-20 13:41:55 --> Loader Class Initialized
+INFO - 2021-04-20 13:41:55 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:41:55 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:41:55 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:41:55 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:41:55 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:41:55 --> User Agent Class Initialized
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:41:55 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:41:55 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:41:55 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:41:55 --> Encryption Class Initialized
+INFO - 2021-04-20 13:41:55 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Person" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Customer" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Employee" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Module" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Item" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Sale" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Expense" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Tax" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:41:55 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:41:55 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:41:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:41:55 --> Migrations Class Initialized
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:41:55 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:41:55 --> Language file loaded: language/en-US/taxes_lang.php
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:41:55 --> Could not find the language line "modules_update (TBD)"
+INFO - 2021-04-20 09:41:55 --> Final output sent to browser
+DEBUG - 2021-04-20 09:41:55 --> Total execution time: 0.2254
+INFO - 2021-04-20 13:43:37 --> Config Class Initialized
+INFO - 2021-04-20 13:43:37 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:43:37 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:43:37 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:43:37 --> URI Class Initialized
+DEBUG - 2021-04-20 13:43:37 --> No URI present. Default controller set.
+INFO - 2021-04-20 13:43:37 --> Router Class Initialized
+INFO - 2021-04-20 13:43:37 --> Output Class Initialized
+INFO - 2021-04-20 13:43:37 --> Security Class Initialized
+DEBUG - 2021-04-20 13:43:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:43:37 --> CSRF cookie sent
+INFO - 2021-04-20 13:43:37 --> Input Class Initialized
+INFO - 2021-04-20 13:43:37 --> Language Class Initialized
+INFO - 2021-04-20 13:43:37 --> Loader Class Initialized
+INFO - 2021-04-20 13:43:37 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:43:37 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:43:37 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:43:37 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:43:37 --> User Agent Class Initialized
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:43:37 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:43:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:43:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:43:37 --> Encryption Class Initialized
+INFO - 2021-04-20 13:43:37 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Person" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Customer" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Employee" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Module" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Sale" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Expense" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Tax" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:43:37 --> Controller Class Initialized
+INFO - 2021-04-20 13:43:37 --> Migrations Class Initialized
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:43:37 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:43:37 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:43:37 --> Config Class Initialized
+INFO - 2021-04-20 13:43:37 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:43:37 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:43:37 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:43:37 --> URI Class Initialized
+INFO - 2021-04-20 13:43:37 --> Router Class Initialized
+INFO - 2021-04-20 13:43:37 --> Output Class Initialized
+INFO - 2021-04-20 13:43:37 --> Security Class Initialized
+DEBUG - 2021-04-20 13:43:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:43:37 --> CSRF cookie sent
+INFO - 2021-04-20 13:43:37 --> Input Class Initialized
+INFO - 2021-04-20 13:43:37 --> Language Class Initialized
+INFO - 2021-04-20 13:43:37 --> Loader Class Initialized
+INFO - 2021-04-20 13:43:37 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:43:37 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:43:37 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:43:37 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:43:37 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:43:37 --> User Agent Class Initialized
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:43:37 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:43:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:43:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:43:37 --> Encryption Class Initialized
+INFO - 2021-04-20 13:43:37 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Person" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Customer" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Employee" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Module" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Sale" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Expense" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Tax" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:43:37 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:43:37 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:43:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:43:37 --> Migrations Class Initialized
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:43:37 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:43:37 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:43:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:43:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:43:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:43:37 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:43:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:43:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:43:37 --> Final output sent to browser
+DEBUG - 2021-04-20 09:43:37 --> Total execution time: 0.1681
+INFO - 2021-04-20 13:43:53 --> Config Class Initialized
+INFO - 2021-04-20 13:43:53 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:43:53 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:43:53 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:43:53 --> URI Class Initialized
+INFO - 2021-04-20 13:43:53 --> Router Class Initialized
+INFO - 2021-04-20 13:43:53 --> Output Class Initialized
+INFO - 2021-04-20 13:43:53 --> Security Class Initialized
+DEBUG - 2021-04-20 13:43:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:43:53 --> Input Class Initialized
+INFO - 2021-04-20 13:43:53 --> Language Class Initialized
+INFO - 2021-04-20 13:43:53 --> Loader Class Initialized
+INFO - 2021-04-20 13:43:53 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:43:53 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:43:53 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:43:53 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:43:53 --> User Agent Class Initialized
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:43:53 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:43:53 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:43:53 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:43:53 --> Encryption Class Initialized
+INFO - 2021-04-20 13:43:53 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Person" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Customer" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Employee" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Module" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Sale" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Expense" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Tax" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:43:53 --> Controller Class Initialized
+INFO - 2021-04-20 13:43:53 --> Migrations Class Initialized
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:43:53 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:43:53 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:43:53 --> Config Class Initialized
+INFO - 2021-04-20 13:43:53 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:43:53 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:43:53 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:43:53 --> URI Class Initialized
+INFO - 2021-04-20 13:43:53 --> Router Class Initialized
+INFO - 2021-04-20 13:43:53 --> Output Class Initialized
+INFO - 2021-04-20 13:43:53 --> Security Class Initialized
+DEBUG - 2021-04-20 13:43:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:43:53 --> CSRF cookie sent
+INFO - 2021-04-20 13:43:53 --> Input Class Initialized
+INFO - 2021-04-20 13:43:53 --> Language Class Initialized
+INFO - 2021-04-20 13:43:53 --> Loader Class Initialized
+INFO - 2021-04-20 13:43:53 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:43:53 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:43:53 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:43:53 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:43:53 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:43:53 --> User Agent Class Initialized
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:43:53 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:43:53 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:43:53 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:43:53 --> Encryption Class Initialized
+INFO - 2021-04-20 13:43:53 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Person" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Customer" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Employee" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Module" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Sale" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Expense" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Tax" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:43:53 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:43:53 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:43:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:43:53 --> Migrations Class Initialized
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:43:53 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:43:53 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:43:53 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:43:53 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:43:53 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:43:53 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:43:53 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:43:53 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:43:53 --> Final output sent to browser
+DEBUG - 2021-04-20 09:43:53 --> Total execution time: 0.1685
+INFO - 2021-04-20 13:43:57 --> Config Class Initialized
+INFO - 2021-04-20 13:43:57 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:43:57 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:43:57 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:43:57 --> URI Class Initialized
+INFO - 2021-04-20 13:43:57 --> Router Class Initialized
+INFO - 2021-04-20 13:43:57 --> Output Class Initialized
+INFO - 2021-04-20 13:43:57 --> Security Class Initialized
+DEBUG - 2021-04-20 13:43:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:43:57 --> CSRF cookie sent
+INFO - 2021-04-20 13:43:57 --> Input Class Initialized
+INFO - 2021-04-20 13:43:57 --> Language Class Initialized
+INFO - 2021-04-20 13:43:57 --> Loader Class Initialized
+INFO - 2021-04-20 13:43:57 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:43:57 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:43:57 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:43:57 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:43:57 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:43:57 --> User Agent Class Initialized
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:43:57 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:43:57 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:43:57 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:43:57 --> Encryption Class Initialized
+INFO - 2021-04-20 13:43:57 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Person" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Customer" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Employee" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Module" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Item" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Sale" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Expense" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Tax" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:43:57 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:43:57 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:43:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:43:57 --> Migrations Class Initialized
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:43:57 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:43:57 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:43:57 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:43:57 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:43:57 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:43:57 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:43:57 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/office.php
+INFO - 2021-04-20 09:43:57 --> Final output sent to browser
+DEBUG - 2021-04-20 09:43:58 --> Total execution time: 0.1708
+INFO - 2021-04-20 13:43:59 --> Config Class Initialized
+INFO - 2021-04-20 13:43:59 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:43:59 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:43:59 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:43:59 --> URI Class Initialized
+INFO - 2021-04-20 13:43:59 --> Router Class Initialized
+INFO - 2021-04-20 13:43:59 --> Output Class Initialized
+INFO - 2021-04-20 13:43:59 --> Security Class Initialized
+DEBUG - 2021-04-20 13:43:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:43:59 --> CSRF cookie sent
+INFO - 2021-04-20 13:43:59 --> Input Class Initialized
+INFO - 2021-04-20 13:43:59 --> Language Class Initialized
+INFO - 2021-04-20 13:43:59 --> Loader Class Initialized
+INFO - 2021-04-20 13:43:59 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:43:59 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:43:59 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:43:59 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:43:59 --> User Agent Class Initialized
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:43:59 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:43:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:43:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:43:59 --> Encryption Class Initialized
+INFO - 2021-04-20 13:43:59 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Person" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Customer" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Employee" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Module" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Sale" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Expense" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Tax" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:43:59 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:43:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:43:59 --> Migrations Class Initialized
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:43:59 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:43:59 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:43:59 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:43:59 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:43:59 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:43:59 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:43:59 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/manage.php
+INFO - 2021-04-20 09:43:59 --> Final output sent to browser
+DEBUG - 2021-04-20 09:43:59 --> Total execution time: 0.1829
+INFO - 2021-04-20 13:43:59 --> Config Class Initialized
+INFO - 2021-04-20 13:43:59 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:43:59 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:43:59 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:43:59 --> URI Class Initialized
+INFO - 2021-04-20 13:43:59 --> Router Class Initialized
+INFO - 2021-04-20 13:43:59 --> Output Class Initialized
+INFO - 2021-04-20 13:43:59 --> Security Class Initialized
+DEBUG - 2021-04-20 13:43:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:43:59 --> CSRF cookie sent
+INFO - 2021-04-20 13:43:59 --> Input Class Initialized
+INFO - 2021-04-20 13:43:59 --> Language Class Initialized
+INFO - 2021-04-20 13:43:59 --> Loader Class Initialized
+INFO - 2021-04-20 13:43:59 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:43:59 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:43:59 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:43:59 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:43:59 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:43:59 --> User Agent Class Initialized
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:43:59 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:43:59 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:43:59 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:43:59 --> Encryption Class Initialized
+INFO - 2021-04-20 13:43:59 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Person" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Customer" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Employee" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Module" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Sale" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Expense" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Tax" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:43:59 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:43:59 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:43:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:43:59 --> Migrations Class Initialized
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:43:59 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:43:59 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:43:59 --> Final output sent to browser
+DEBUG - 2021-04-20 09:43:59 --> Total execution time: 0.2521
+INFO - 2021-04-20 13:44:02 --> Config Class Initialized
+INFO - 2021-04-20 13:44:02 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:03 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:03 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:03 --> URI Class Initialized
+INFO - 2021-04-20 13:44:03 --> Router Class Initialized
+INFO - 2021-04-20 13:44:03 --> Output Class Initialized
+INFO - 2021-04-20 13:44:03 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:03 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:03 --> Input Class Initialized
+INFO - 2021-04-20 13:44:03 --> Language Class Initialized
+INFO - 2021-04-20 13:44:03 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:03 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:03 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:03 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:03 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:03 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:03 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:03 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:03 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:03 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:03 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:03 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:44:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:44:03 --> Migrations Class Initialized
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:44:03 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:44:03 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:44:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+ERROR - 2021-04-20 09:44:03 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:44:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\employees/form.php
+INFO - 2021-04-20 09:44:03 --> Final output sent to browser
+DEBUG - 2021-04-20 09:44:03 --> Total execution time: 0.2067
+INFO - 2021-04-20 13:44:18 --> Config Class Initialized
+INFO - 2021-04-20 13:44:18 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:18 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:18 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:18 --> URI Class Initialized
+INFO - 2021-04-20 13:44:18 --> Router Class Initialized
+INFO - 2021-04-20 13:44:18 --> Output Class Initialized
+INFO - 2021-04-20 13:44:18 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:18 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:18 --> CSRF token verified
+INFO - 2021-04-20 13:44:18 --> Input Class Initialized
+INFO - 2021-04-20 13:44:18 --> Language Class Initialized
+INFO - 2021-04-20 13:44:18 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:18 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:18 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:18 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:18 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:18 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:18 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:18 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:18 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:18 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:18 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:18 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:44:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:44:18 --> Migrations Class Initialized
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:44:18 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:44:18 --> Final output sent to browser
+DEBUG - 2021-04-20 09:44:18 --> Total execution time: 0.1905
+INFO - 2021-04-20 13:44:18 --> Config Class Initialized
+INFO - 2021-04-20 13:44:18 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:18 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:18 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:18 --> URI Class Initialized
+INFO - 2021-04-20 13:44:18 --> Router Class Initialized
+INFO - 2021-04-20 13:44:18 --> Output Class Initialized
+INFO - 2021-04-20 13:44:18 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:18 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:18 --> Input Class Initialized
+INFO - 2021-04-20 13:44:18 --> Language Class Initialized
+INFO - 2021-04-20 13:44:18 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:18 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:18 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:18 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:18 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:18 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:18 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:18 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:18 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:18 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:18 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:18 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:18 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:18 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:44:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:44:18 --> Migrations Class Initialized
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:44:18 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:44:18 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:44:18 --> Final output sent to browser
+DEBUG - 2021-04-20 09:44:18 --> Total execution time: 0.1716
+INFO - 2021-04-20 13:44:23 --> Config Class Initialized
+INFO - 2021-04-20 13:44:23 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:23 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:23 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:23 --> URI Class Initialized
+INFO - 2021-04-20 13:44:23 --> Router Class Initialized
+INFO - 2021-04-20 13:44:23 --> Output Class Initialized
+INFO - 2021-04-20 13:44:23 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:23 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:23 --> Input Class Initialized
+INFO - 2021-04-20 13:44:23 --> Language Class Initialized
+INFO - 2021-04-20 13:44:23 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:23 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:23 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:23 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:23 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:23 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:23 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:23 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:23 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:23 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:23 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:23 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:44:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:44:23 --> Migrations Class Initialized
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:44:23 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:44:23 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:44:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:44:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:44:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:44:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:44:23 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:44:23 --> Final output sent to browser
+DEBUG - 2021-04-20 09:44:23 --> Total execution time: 0.1866
+INFO - 2021-04-20 13:44:27 --> Config Class Initialized
+INFO - 2021-04-20 13:44:27 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:27 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:27 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:27 --> URI Class Initialized
+INFO - 2021-04-20 13:44:27 --> Router Class Initialized
+INFO - 2021-04-20 13:44:27 --> Output Class Initialized
+INFO - 2021-04-20 13:44:27 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:27 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:27 --> Input Class Initialized
+INFO - 2021-04-20 13:44:27 --> Language Class Initialized
+INFO - 2021-04-20 13:44:27 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:27 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:27 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:27 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:27 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:27 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:27 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:27 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:27 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:27 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:27 --> Controller Class Initialized
+INFO - 2021-04-20 13:44:27 --> Config Class Initialized
+INFO - 2021-04-20 13:44:27 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:27 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:27 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:27 --> URI Class Initialized
+INFO - 2021-04-20 13:44:27 --> Router Class Initialized
+INFO - 2021-04-20 13:44:27 --> Output Class Initialized
+INFO - 2021-04-20 13:44:27 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:27 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:27 --> Input Class Initialized
+INFO - 2021-04-20 13:44:27 --> Language Class Initialized
+INFO - 2021-04-20 13:44:27 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:27 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:27 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:27 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:27 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:28 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:28 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:28 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:28 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:28 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:28 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:28 --> Controller Class Initialized
+INFO - 2021-04-20 13:44:28 --> Migrations Class Initialized
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:44:28 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:44:28 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:44:28 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\no_access.php
+INFO - 2021-04-20 09:44:28 --> Final output sent to browser
+DEBUG - 2021-04-20 09:44:28 --> Total execution time: 0.1649
+INFO - 2021-04-20 13:44:34 --> Config Class Initialized
+INFO - 2021-04-20 13:44:34 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:34 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:34 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:34 --> URI Class Initialized
+INFO - 2021-04-20 13:44:34 --> Router Class Initialized
+INFO - 2021-04-20 13:44:34 --> Output Class Initialized
+INFO - 2021-04-20 13:44:34 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:34 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:34 --> Input Class Initialized
+INFO - 2021-04-20 13:44:34 --> Language Class Initialized
+INFO - 2021-04-20 13:44:34 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:34 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:34 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:34 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:34 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:34 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:34 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:34 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:34 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:34 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:34 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:34 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:34 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:34 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:34 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:34 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:34 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:34 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:34 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:35 --> Controller Class Initialized
+INFO - 2021-04-20 13:44:35 --> Config Class Initialized
+INFO - 2021-04-20 13:44:35 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:35 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:35 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:35 --> URI Class Initialized
+INFO - 2021-04-20 13:44:35 --> Router Class Initialized
+INFO - 2021-04-20 13:44:35 --> Output Class Initialized
+INFO - 2021-04-20 13:44:35 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:35 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:35 --> Input Class Initialized
+INFO - 2021-04-20 13:44:35 --> Language Class Initialized
+INFO - 2021-04-20 13:44:35 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:35 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:35 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:35 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:35 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:35 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:35 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:35 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:35 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:35 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:35 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:35 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:35 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:35 --> Controller Class Initialized
+INFO - 2021-04-20 13:44:35 --> Migrations Class Initialized
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:44:35 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:44:35 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:44:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\no_access.php
+INFO - 2021-04-20 09:44:35 --> Final output sent to browser
+DEBUG - 2021-04-20 09:44:35 --> Total execution time: 0.1598
+INFO - 2021-04-20 13:44:43 --> Config Class Initialized
+INFO - 2021-04-20 13:44:43 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:43 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:43 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:43 --> URI Class Initialized
+DEBUG - 2021-04-20 13:44:43 --> No URI present. Default controller set.
+INFO - 2021-04-20 13:44:43 --> Router Class Initialized
+INFO - 2021-04-20 13:44:43 --> Output Class Initialized
+INFO - 2021-04-20 13:44:43 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:43 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:43 --> Input Class Initialized
+INFO - 2021-04-20 13:44:43 --> Language Class Initialized
+INFO - 2021-04-20 13:44:43 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:43 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:43 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:43 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:43 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:43 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:43 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:43 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:43 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:43 --> Controller Class Initialized
+INFO - 2021-04-20 13:44:43 --> Migrations Class Initialized
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:44:43 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:44:43 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:44:43 --> Config Class Initialized
+INFO - 2021-04-20 13:44:43 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:44:43 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:44:43 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:44:43 --> URI Class Initialized
+INFO - 2021-04-20 13:44:43 --> Router Class Initialized
+INFO - 2021-04-20 13:44:43 --> Output Class Initialized
+INFO - 2021-04-20 13:44:43 --> Security Class Initialized
+DEBUG - 2021-04-20 13:44:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:44:43 --> CSRF cookie sent
+INFO - 2021-04-20 13:44:43 --> Input Class Initialized
+INFO - 2021-04-20 13:44:43 --> Language Class Initialized
+INFO - 2021-04-20 13:44:43 --> Loader Class Initialized
+INFO - 2021-04-20 13:44:43 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:44:43 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:44:43 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:44:43 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:44:43 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:44:43 --> User Agent Class Initialized
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:44:43 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:44:43 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:44:43 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:44:43 --> Encryption Class Initialized
+INFO - 2021-04-20 13:44:43 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Person" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Customer" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Employee" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Module" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Sale" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Expense" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Tax" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:44:43 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:44:43 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:44:43 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:44:43 --> Migrations Class Initialized
+INFO - 2021-04-20 13:44:43 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:44:43 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:44:44 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:44:44 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:44:44 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:44:44 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:44:44 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:44:44 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:44:44 --> Final output sent to browser
+DEBUG - 2021-04-20 09:44:44 --> Total execution time: 0.1733
+INFO - 2021-04-20 13:45:02 --> Config Class Initialized
+INFO - 2021-04-20 13:45:02 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:02 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:02 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:02 --> URI Class Initialized
+INFO - 2021-04-20 13:45:02 --> Router Class Initialized
+INFO - 2021-04-20 13:45:02 --> Output Class Initialized
+INFO - 2021-04-20 13:45:02 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:02 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:02 --> Input Class Initialized
+INFO - 2021-04-20 13:45:02 --> Language Class Initialized
+INFO - 2021-04-20 13:45:02 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:02 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:02 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:02 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:02 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:02 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:02 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:02 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:02 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:02 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:02 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:02 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:02 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:02 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:02 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:02 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:02 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:02 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:02 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:45:02 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:45:02 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:45:02 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:45:02 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/office.php
+INFO - 2021-04-20 09:45:02 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:02 --> Total execution time: 0.1762
+INFO - 2021-04-20 13:45:03 --> Config Class Initialized
+INFO - 2021-04-20 13:45:03 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:03 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:03 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:03 --> URI Class Initialized
+INFO - 2021-04-20 13:45:03 --> Router Class Initialized
+INFO - 2021-04-20 13:45:03 --> Output Class Initialized
+INFO - 2021-04-20 13:45:03 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:03 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:03 --> Input Class Initialized
+INFO - 2021-04-20 13:45:03 --> Language Class Initialized
+INFO - 2021-04-20 13:45:03 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:03 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:03 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:03 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:03 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:03 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:03 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:03 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:03 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:03 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:03 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:03 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:45:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:45:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:45:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:45:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:45:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/manage.php
+INFO - 2021-04-20 09:45:03 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:03 --> Total execution time: 0.1735
+INFO - 2021-04-20 13:45:03 --> Config Class Initialized
+INFO - 2021-04-20 13:45:03 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:03 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:03 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:03 --> URI Class Initialized
+INFO - 2021-04-20 13:45:03 --> Router Class Initialized
+INFO - 2021-04-20 13:45:03 --> Output Class Initialized
+INFO - 2021-04-20 13:45:03 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:03 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:03 --> Input Class Initialized
+INFO - 2021-04-20 13:45:03 --> Language Class Initialized
+INFO - 2021-04-20 13:45:03 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:03 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:03 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:03 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:03 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:03 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:03 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:03 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:03 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:03 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:03 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:03 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:03 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:03 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:03 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:03 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:03 --> Total execution time: 0.1922
+INFO - 2021-04-20 13:45:05 --> Config Class Initialized
+INFO - 2021-04-20 13:45:05 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:05 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:05 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:05 --> URI Class Initialized
+INFO - 2021-04-20 13:45:05 --> Router Class Initialized
+INFO - 2021-04-20 13:45:05 --> Output Class Initialized
+INFO - 2021-04-20 13:45:05 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:05 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:05 --> Input Class Initialized
+INFO - 2021-04-20 13:45:05 --> Language Class Initialized
+INFO - 2021-04-20 13:45:05 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:05 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:05 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:05 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:05 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:05 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:05 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:05 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:05 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:05 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:05 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:05 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:05 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:05 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:05 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:05 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:05 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:05 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:45:05 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:45:05 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:45:05 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:45:05 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/office.php
+INFO - 2021-04-20 09:45:05 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:05 --> Total execution time: 0.1762
+INFO - 2021-04-20 13:45:07 --> Config Class Initialized
+INFO - 2021-04-20 13:45:07 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:07 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:07 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:07 --> URI Class Initialized
+INFO - 2021-04-20 13:45:07 --> Router Class Initialized
+INFO - 2021-04-20 13:45:07 --> Output Class Initialized
+INFO - 2021-04-20 13:45:07 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:07 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:07 --> Input Class Initialized
+INFO - 2021-04-20 13:45:07 --> Language Class Initialized
+INFO - 2021-04-20 13:45:07 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:07 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:07 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:07 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:07 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:07 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:07 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:07 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:07 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:07 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:07 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:07 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:07 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:07 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:07 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:07 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:07 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:07 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:45:07 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:45:07 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:45:07 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:45:07 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:45:07 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:07 --> Total execution time: 0.2054
+INFO - 2021-04-20 13:45:26 --> Config Class Initialized
+INFO - 2021-04-20 13:45:26 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:26 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:26 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:26 --> URI Class Initialized
+INFO - 2021-04-20 13:45:26 --> Router Class Initialized
+INFO - 2021-04-20 13:45:26 --> Output Class Initialized
+INFO - 2021-04-20 13:45:26 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:26 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:26 --> Input Class Initialized
+INFO - 2021-04-20 13:45:26 --> Language Class Initialized
+INFO - 2021-04-20 13:45:26 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:26 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:26 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:26 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:26 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:26 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:26 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:26 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:26 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:26 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:26 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:26 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:26 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:26 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:26 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:26 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+ERROR - 2021-04-20 09:45:26 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:45:26 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\employees/form.php
+INFO - 2021-04-20 09:45:26 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:26 --> Total execution time: 0.2876
+INFO - 2021-04-20 13:45:33 --> Config Class Initialized
+INFO - 2021-04-20 13:45:33 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:33 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:33 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:33 --> URI Class Initialized
+INFO - 2021-04-20 13:45:33 --> Router Class Initialized
+INFO - 2021-04-20 13:45:33 --> Output Class Initialized
+INFO - 2021-04-20 13:45:33 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:33 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:33 --> CSRF token verified
+INFO - 2021-04-20 13:45:33 --> Input Class Initialized
+INFO - 2021-04-20 13:45:33 --> Language Class Initialized
+INFO - 2021-04-20 13:45:33 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:33 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:33 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:33 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:33 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:33 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:33 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:33 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:33 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:33 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:33 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:33 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:33 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:33 --> Total execution time: 0.1771
+INFO - 2021-04-20 13:45:33 --> Config Class Initialized
+INFO - 2021-04-20 13:45:33 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:33 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:33 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:33 --> URI Class Initialized
+INFO - 2021-04-20 13:45:33 --> Router Class Initialized
+INFO - 2021-04-20 13:45:33 --> Output Class Initialized
+INFO - 2021-04-20 13:45:33 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:33 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:33 --> Input Class Initialized
+INFO - 2021-04-20 13:45:33 --> Language Class Initialized
+INFO - 2021-04-20 13:45:33 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:33 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:33 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:33 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:33 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:33 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:33 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:33 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:33 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:33 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:33 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:34 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:34 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:34 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:34 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:34 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:34 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:34 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:34 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:34 --> Total execution time: 0.1822
+INFO - 2021-04-20 13:45:37 --> Config Class Initialized
+INFO - 2021-04-20 13:45:37 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:45:37 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:45:37 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:45:37 --> URI Class Initialized
+INFO - 2021-04-20 13:45:37 --> Router Class Initialized
+INFO - 2021-04-20 13:45:37 --> Output Class Initialized
+INFO - 2021-04-20 13:45:37 --> Security Class Initialized
+DEBUG - 2021-04-20 13:45:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:45:37 --> CSRF cookie sent
+INFO - 2021-04-20 13:45:37 --> Input Class Initialized
+INFO - 2021-04-20 13:45:37 --> Language Class Initialized
+INFO - 2021-04-20 13:45:37 --> Loader Class Initialized
+INFO - 2021-04-20 13:45:37 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:45:37 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:45:37 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:45:37 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:45:37 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:45:37 --> User Agent Class Initialized
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:45:37 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:45:37 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:45:37 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:45:37 --> Encryption Class Initialized
+INFO - 2021-04-20 13:45:37 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Person" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Customer" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Employee" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Module" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Item" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Sale" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Expense" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Tax" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:45:37 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:45:37 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:45:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:45:37 --> Migrations Class Initialized
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:45:37 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:45:37 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:45:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:45:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:45:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:45:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:45:37 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:45:37 --> Final output sent to browser
+DEBUG - 2021-04-20 09:45:37 --> Total execution time: 0.1952
+INFO - 2021-04-20 13:47:31 --> Config Class Initialized
+INFO - 2021-04-20 13:47:31 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:47:31 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:47:31 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:47:31 --> URI Class Initialized
+DEBUG - 2021-04-20 13:47:31 --> No URI present. Default controller set.
+INFO - 2021-04-20 13:47:31 --> Router Class Initialized
+INFO - 2021-04-20 13:47:31 --> Output Class Initialized
+INFO - 2021-04-20 13:47:31 --> Security Class Initialized
+DEBUG - 2021-04-20 13:47:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:47:31 --> CSRF cookie sent
+INFO - 2021-04-20 13:47:31 --> Input Class Initialized
+INFO - 2021-04-20 13:47:31 --> Language Class Initialized
+INFO - 2021-04-20 13:47:31 --> Loader Class Initialized
+INFO - 2021-04-20 13:47:31 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:47:31 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:47:31 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:47:31 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:47:31 --> User Agent Class Initialized
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:47:31 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:47:31 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:47:31 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:47:31 --> Encryption Class Initialized
+INFO - 2021-04-20 13:47:31 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Person" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Customer" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Employee" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Module" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Sale" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Expense" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Tax" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:47:31 --> Controller Class Initialized
+INFO - 2021-04-20 13:47:31 --> Migrations Class Initialized
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:47:31 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:47:31 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:47:31 --> Config Class Initialized
+INFO - 2021-04-20 13:47:31 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:47:31 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:47:31 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:47:31 --> URI Class Initialized
+INFO - 2021-04-20 13:47:31 --> Router Class Initialized
+INFO - 2021-04-20 13:47:31 --> Output Class Initialized
+INFO - 2021-04-20 13:47:31 --> Security Class Initialized
+DEBUG - 2021-04-20 13:47:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:47:31 --> CSRF cookie sent
+INFO - 2021-04-20 13:47:31 --> Input Class Initialized
+INFO - 2021-04-20 13:47:31 --> Language Class Initialized
+INFO - 2021-04-20 13:47:31 --> Loader Class Initialized
+INFO - 2021-04-20 13:47:31 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:47:31 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:47:31 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:47:31 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:47:31 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:47:31 --> User Agent Class Initialized
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:47:31 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:47:31 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:47:31 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:47:31 --> Encryption Class Initialized
+INFO - 2021-04-20 13:47:31 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Person" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Customer" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Employee" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Module" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Sale" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Expense" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Tax" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:47:31 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:47:31 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:47:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:47:31 --> Migrations Class Initialized
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:47:31 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:47:31 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:47:31 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:47:31 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:47:31 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:47:31 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:47:31 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:47:31 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:47:31 --> Final output sent to browser
+DEBUG - 2021-04-20 09:47:31 --> Total execution time: 0.1748
+INFO - 2021-04-20 13:47:32 --> Config Class Initialized
+INFO - 2021-04-20 13:47:32 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:47:32 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:47:32 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:47:32 --> URI Class Initialized
+INFO - 2021-04-20 13:47:32 --> Router Class Initialized
+INFO - 2021-04-20 13:47:32 --> Output Class Initialized
+INFO - 2021-04-20 13:47:32 --> Security Class Initialized
+DEBUG - 2021-04-20 13:47:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:47:32 --> CSRF cookie sent
+INFO - 2021-04-20 13:47:32 --> Input Class Initialized
+INFO - 2021-04-20 13:47:32 --> Language Class Initialized
+INFO - 2021-04-20 13:47:32 --> Loader Class Initialized
+INFO - 2021-04-20 13:47:32 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:47:32 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:47:32 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:47:33 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:47:33 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:47:33 --> User Agent Class Initialized
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:47:33 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:47:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:47:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:47:33 --> Encryption Class Initialized
+INFO - 2021-04-20 13:47:33 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Person" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Customer" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Employee" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Module" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Sale" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Expense" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Tax" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:47:33 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:47:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:47:33 --> Migrations Class Initialized
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:47:33 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:47:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:47:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:47:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:47:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:47:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:47:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/manage.php
+INFO - 2021-04-20 09:47:33 --> Final output sent to browser
+DEBUG - 2021-04-20 09:47:33 --> Total execution time: 0.1748
+INFO - 2021-04-20 13:47:33 --> Config Class Initialized
+INFO - 2021-04-20 13:47:33 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:47:33 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:47:33 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:47:33 --> URI Class Initialized
+INFO - 2021-04-20 13:47:33 --> Router Class Initialized
+INFO - 2021-04-20 13:47:33 --> Output Class Initialized
+INFO - 2021-04-20 13:47:33 --> Security Class Initialized
+DEBUG - 2021-04-20 13:47:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:47:33 --> CSRF cookie sent
+INFO - 2021-04-20 13:47:33 --> Input Class Initialized
+INFO - 2021-04-20 13:47:33 --> Language Class Initialized
+INFO - 2021-04-20 13:47:33 --> Loader Class Initialized
+INFO - 2021-04-20 13:47:33 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:47:33 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:47:33 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:47:33 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:47:33 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:47:33 --> User Agent Class Initialized
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:47:33 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:47:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:47:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:47:33 --> Encryption Class Initialized
+INFO - 2021-04-20 13:47:33 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Person" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Customer" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Employee" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Module" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Sale" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Expense" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Tax" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:47:33 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:47:33 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:47:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:47:33 --> Migrations Class Initialized
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:47:33 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:47:33 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:47:33 --> Final output sent to browser
+DEBUG - 2021-04-20 09:47:33 --> Total execution time: 0.2505
+INFO - 2021-04-20 13:47:38 --> Config Class Initialized
+INFO - 2021-04-20 13:47:38 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:47:38 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:47:38 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:47:38 --> URI Class Initialized
+INFO - 2021-04-20 13:47:38 --> Router Class Initialized
+INFO - 2021-04-20 13:47:38 --> Output Class Initialized
+INFO - 2021-04-20 13:47:38 --> Security Class Initialized
+DEBUG - 2021-04-20 13:47:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:47:38 --> CSRF cookie sent
+INFO - 2021-04-20 13:47:38 --> Input Class Initialized
+INFO - 2021-04-20 13:47:38 --> Language Class Initialized
+INFO - 2021-04-20 13:47:38 --> Loader Class Initialized
+INFO - 2021-04-20 13:47:38 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:47:38 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:47:38 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:47:38 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:47:38 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:47:38 --> User Agent Class Initialized
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:47:38 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:47:38 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:47:38 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:47:38 --> Encryption Class Initialized
+INFO - 2021-04-20 13:47:38 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Person" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Customer" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Employee" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Module" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Item" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Sale" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Expense" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Tax" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:47:38 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:47:38 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:47:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:47:38 --> Migrations Class Initialized
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:47:38 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:47:38 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:47:38 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+INFO - 2021-04-20 09:47:38 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\customers/form.php
+INFO - 2021-04-20 09:47:38 --> Final output sent to browser
+DEBUG - 2021-04-20 09:47:38 --> Total execution time: 0.2215
+INFO - 2021-04-20 13:51:03 --> Config Class Initialized
+INFO - 2021-04-20 13:51:03 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:51:03 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:51:03 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:51:03 --> URI Class Initialized
+INFO - 2021-04-20 13:51:03 --> Router Class Initialized
+INFO - 2021-04-20 13:51:03 --> Output Class Initialized
+INFO - 2021-04-20 13:51:03 --> Security Class Initialized
+DEBUG - 2021-04-20 13:51:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:51:03 --> CSRF cookie sent
+INFO - 2021-04-20 13:51:03 --> Input Class Initialized
+INFO - 2021-04-20 13:51:03 --> Language Class Initialized
+INFO - 2021-04-20 13:51:03 --> Loader Class Initialized
+INFO - 2021-04-20 13:51:03 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:51:03 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:51:03 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:51:03 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:51:03 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:51:03 --> User Agent Class Initialized
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:51:03 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:51:03 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:51:03 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:51:03 --> Encryption Class Initialized
+INFO - 2021-04-20 13:51:03 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Person" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Customer" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Employee" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Module" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Item" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Sale" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Expense" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Tax" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:51:03 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:51:03 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:51:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:51:03 --> Migrations Class Initialized
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:51:03 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:51:03 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:51:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+INFO - 2021-04-20 09:51:03 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\customers/form.php
+INFO - 2021-04-20 09:51:03 --> Final output sent to browser
+DEBUG - 2021-04-20 09:51:03 --> Total execution time: 0.1891
+INFO - 2021-04-20 13:51:18 --> Config Class Initialized
+INFO - 2021-04-20 13:51:18 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:51:18 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:51:18 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:51:18 --> URI Class Initialized
+INFO - 2021-04-20 13:51:18 --> Router Class Initialized
+INFO - 2021-04-20 13:51:18 --> Output Class Initialized
+INFO - 2021-04-20 13:51:18 --> Security Class Initialized
+DEBUG - 2021-04-20 13:51:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:51:18 --> CSRF cookie sent
+INFO - 2021-04-20 13:51:18 --> Input Class Initialized
+INFO - 2021-04-20 13:51:18 --> Language Class Initialized
+INFO - 2021-04-20 13:51:18 --> Loader Class Initialized
+INFO - 2021-04-20 13:51:18 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:51:18 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:51:18 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:51:18 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:51:18 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:51:18 --> User Agent Class Initialized
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:51:18 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:51:18 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:51:18 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:51:18 --> Encryption Class Initialized
+INFO - 2021-04-20 13:51:18 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Person" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Customer" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Employee" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Module" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Item" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Sale" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Expense" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Tax" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:51:18 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:51:18 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:51:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:51:18 --> Migrations Class Initialized
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:51:18 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:51:18 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:51:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\messages/form_sms.php
+INFO - 2021-04-20 09:51:18 --> Final output sent to browser
+DEBUG - 2021-04-20 09:51:18 --> Total execution time: 0.1802
+INFO - 2021-04-20 13:52:28 --> Config Class Initialized
+INFO - 2021-04-20 13:52:28 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:52:28 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:52:28 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:52:28 --> URI Class Initialized
+INFO - 2021-04-20 13:52:28 --> Router Class Initialized
+INFO - 2021-04-20 13:52:28 --> Output Class Initialized
+INFO - 2021-04-20 13:52:28 --> Security Class Initialized
+DEBUG - 2021-04-20 13:52:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:52:28 --> CSRF cookie sent
+INFO - 2021-04-20 13:52:28 --> Input Class Initialized
+INFO - 2021-04-20 13:52:28 --> Language Class Initialized
+INFO - 2021-04-20 13:52:28 --> Loader Class Initialized
+INFO - 2021-04-20 13:52:28 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:52:28 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:52:28 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:52:28 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:52:28 --> User Agent Class Initialized
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:52:28 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:52:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:52:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:52:28 --> Encryption Class Initialized
+INFO - 2021-04-20 13:52:28 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Person" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Customer" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Employee" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Module" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Sale" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Expense" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Tax" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:52:28 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:52:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:52:28 --> Migrations Class Initialized
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:52:28 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:52:28 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:52:28 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:52:28 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:52:28 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/daterangepicker.php
+INFO - 2021-04-20 09:52:28 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:52:28 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:52:28 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\items/manage.php
+INFO - 2021-04-20 09:52:28 --> Final output sent to browser
+DEBUG - 2021-04-20 09:52:28 --> Total execution time: 0.2326
+INFO - 2021-04-20 13:52:28 --> Config Class Initialized
+INFO - 2021-04-20 13:52:28 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:52:28 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:52:28 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:52:28 --> URI Class Initialized
+INFO - 2021-04-20 13:52:28 --> Router Class Initialized
+INFO - 2021-04-20 13:52:28 --> Output Class Initialized
+INFO - 2021-04-20 13:52:28 --> Security Class Initialized
+DEBUG - 2021-04-20 13:52:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:52:28 --> CSRF cookie sent
+INFO - 2021-04-20 13:52:28 --> Input Class Initialized
+INFO - 2021-04-20 13:52:28 --> Language Class Initialized
+INFO - 2021-04-20 13:52:28 --> Loader Class Initialized
+INFO - 2021-04-20 13:52:28 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:52:28 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:52:28 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:52:28 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:52:28 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:52:28 --> User Agent Class Initialized
+INFO - 2021-04-20 13:52:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:52:28 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:52:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:52:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:52:28 --> Encryption Class Initialized
+INFO - 2021-04-20 13:52:28 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Person" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Customer" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Employee" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Module" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Sale" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Expense" initialized
+INFO - 2021-04-20 13:52:28 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:52:29 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:52:29 --> Model "Tax" initialized
+INFO - 2021-04-20 13:52:29 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:52:29 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:52:29 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:52:29 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:52:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:52:29 --> Migrations Class Initialized
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:52:29 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:52:29 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:52:29 --> Final output sent to browser
+DEBUG - 2021-04-20 09:52:29 --> Total execution time: 0.3017
+INFO - 2021-04-20 13:52:31 --> Config Class Initialized
+INFO - 2021-04-20 13:52:31 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:52:31 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:52:31 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:52:31 --> URI Class Initialized
+INFO - 2021-04-20 13:52:31 --> Router Class Initialized
+INFO - 2021-04-20 13:52:31 --> Output Class Initialized
+INFO - 2021-04-20 13:52:31 --> Security Class Initialized
+DEBUG - 2021-04-20 13:52:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:52:31 --> CSRF cookie sent
+INFO - 2021-04-20 13:52:31 --> Input Class Initialized
+INFO - 2021-04-20 13:52:31 --> Language Class Initialized
+INFO - 2021-04-20 13:52:31 --> Loader Class Initialized
+INFO - 2021-04-20 13:52:31 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:52:31 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:52:31 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:52:31 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:52:31 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:52:31 --> User Agent Class Initialized
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:52:31 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:52:31 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:52:31 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:52:31 --> Encryption Class Initialized
+INFO - 2021-04-20 13:52:31 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Person" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Customer" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Employee" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Module" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Item" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Sale" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Expense" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Tax" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:52:31 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:52:31 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:52:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:52:31 --> Migrations Class Initialized
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:52:31 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:52:31 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:52:32 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\items/form.php
+INFO - 2021-04-20 09:52:32 --> Final output sent to browser
+DEBUG - 2021-04-20 09:52:32 --> Total execution time: 0.2239
+INFO - 2021-04-20 13:52:32 --> Config Class Initialized
+INFO - 2021-04-20 13:52:32 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:52:32 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:52:32 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:52:32 --> URI Class Initialized
+INFO - 2021-04-20 13:52:32 --> Router Class Initialized
+INFO - 2021-04-20 13:52:32 --> Output Class Initialized
+INFO - 2021-04-20 13:52:32 --> Security Class Initialized
+DEBUG - 2021-04-20 13:52:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:52:32 --> CSRF cookie sent
+INFO - 2021-04-20 13:52:32 --> Input Class Initialized
+INFO - 2021-04-20 13:52:32 --> Language Class Initialized
+INFO - 2021-04-20 13:52:32 --> Loader Class Initialized
+INFO - 2021-04-20 13:52:32 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:52:32 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:52:32 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:52:32 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:52:32 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:52:32 --> User Agent Class Initialized
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:52:32 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:52:32 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:52:32 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:52:32 --> Encryption Class Initialized
+INFO - 2021-04-20 13:52:32 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Person" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Customer" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Employee" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Module" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Item" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Sale" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Expense" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Tax" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:52:32 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:52:32 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:52:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:52:32 --> Migrations Class Initialized
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:52:32 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:52:32 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:52:32 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/datepicker_locale.php
+INFO - 2021-04-20 09:52:32 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\attributes/item.php
+INFO - 2021-04-20 09:52:32 --> Final output sent to browser
+DEBUG - 2021-04-20 09:52:32 --> Total execution time: 0.2244
+INFO - 2021-04-20 13:52:35 --> Config Class Initialized
+INFO - 2021-04-20 13:52:35 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:52:35 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:52:35 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:52:35 --> URI Class Initialized
+INFO - 2021-04-20 13:52:35 --> Router Class Initialized
+INFO - 2021-04-20 13:52:36 --> Output Class Initialized
+INFO - 2021-04-20 13:52:36 --> Security Class Initialized
+DEBUG - 2021-04-20 13:52:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:52:36 --> CSRF cookie sent
+INFO - 2021-04-20 13:52:36 --> Input Class Initialized
+INFO - 2021-04-20 13:52:36 --> Language Class Initialized
+INFO - 2021-04-20 13:52:36 --> Loader Class Initialized
+INFO - 2021-04-20 13:52:36 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:52:36 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:52:36 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:52:36 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:52:36 --> User Agent Class Initialized
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:52:36 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:52:36 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:52:36 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:52:36 --> Encryption Class Initialized
+INFO - 2021-04-20 13:52:36 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Person" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Customer" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Employee" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Module" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Sale" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Expense" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Tax" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:52:36 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:52:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:52:36 --> Migrations Class Initialized
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:52:36 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:52:36 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\items/form.php
+INFO - 2021-04-20 09:52:36 --> Final output sent to browser
+DEBUG - 2021-04-20 09:52:36 --> Total execution time: 0.1883
+INFO - 2021-04-20 13:52:36 --> Config Class Initialized
+INFO - 2021-04-20 13:52:36 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:52:36 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:52:36 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:52:36 --> URI Class Initialized
+INFO - 2021-04-20 13:52:36 --> Router Class Initialized
+INFO - 2021-04-20 13:52:36 --> Output Class Initialized
+INFO - 2021-04-20 13:52:36 --> Security Class Initialized
+DEBUG - 2021-04-20 13:52:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:52:36 --> CSRF cookie sent
+INFO - 2021-04-20 13:52:36 --> Input Class Initialized
+INFO - 2021-04-20 13:52:36 --> Language Class Initialized
+INFO - 2021-04-20 13:52:36 --> Loader Class Initialized
+INFO - 2021-04-20 13:52:36 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:52:36 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:52:36 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:52:36 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:52:36 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:52:36 --> User Agent Class Initialized
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:52:36 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:52:36 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:52:36 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:52:36 --> Encryption Class Initialized
+INFO - 2021-04-20 13:52:36 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Person" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Customer" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Employee" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Module" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Sale" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Expense" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Tax" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:52:36 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:52:36 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:52:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:52:36 --> Migrations Class Initialized
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:52:36 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:52:36 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:52:36 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/datepicker_locale.php
+INFO - 2021-04-20 09:52:36 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\attributes/item.php
+INFO - 2021-04-20 09:52:36 --> Final output sent to browser
+DEBUG - 2021-04-20 09:52:36 --> Total execution time: 0.2544
+INFO - 2021-04-20 13:55:08 --> Config Class Initialized
+INFO - 2021-04-20 13:55:08 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:55:08 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:55:08 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:55:08 --> URI Class Initialized
+INFO - 2021-04-20 13:55:08 --> Router Class Initialized
+INFO - 2021-04-20 13:55:08 --> Output Class Initialized
+INFO - 2021-04-20 13:55:08 --> Security Class Initialized
+DEBUG - 2021-04-20 13:55:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:55:08 --> CSRF cookie sent
+INFO - 2021-04-20 13:55:08 --> Input Class Initialized
+INFO - 2021-04-20 13:55:08 --> Language Class Initialized
+INFO - 2021-04-20 13:55:08 --> Loader Class Initialized
+INFO - 2021-04-20 13:55:08 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:55:08 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:55:08 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:55:08 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:55:08 --> User Agent Class Initialized
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:55:08 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:55:08 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:55:08 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:55:08 --> Encryption Class Initialized
+INFO - 2021-04-20 13:55:08 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Person" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Customer" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Employee" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Module" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Sale" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Expense" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Tax" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:55:08 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:55:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:55:08 --> Migrations Class Initialized
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:55:08 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:55:08 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:55:08 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:55:08 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:55:08 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:55:08 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:55:08 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/manage.php
+INFO - 2021-04-20 09:55:08 --> Final output sent to browser
+DEBUG - 2021-04-20 09:55:08 --> Total execution time: 0.1934
+INFO - 2021-04-20 13:55:08 --> Config Class Initialized
+INFO - 2021-04-20 13:55:08 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:55:08 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:55:08 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:55:08 --> URI Class Initialized
+INFO - 2021-04-20 13:55:08 --> Router Class Initialized
+INFO - 2021-04-20 13:55:08 --> Output Class Initialized
+INFO - 2021-04-20 13:55:08 --> Security Class Initialized
+DEBUG - 2021-04-20 13:55:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:55:08 --> CSRF cookie sent
+INFO - 2021-04-20 13:55:08 --> Input Class Initialized
+INFO - 2021-04-20 13:55:08 --> Language Class Initialized
+INFO - 2021-04-20 13:55:08 --> Loader Class Initialized
+INFO - 2021-04-20 13:55:08 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:55:08 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:55:08 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:55:08 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:55:08 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:55:08 --> User Agent Class Initialized
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:55:08 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:55:08 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:55:08 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:55:08 --> Encryption Class Initialized
+INFO - 2021-04-20 13:55:08 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Person" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Customer" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Employee" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Module" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Sale" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Expense" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Tax" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:55:08 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:55:08 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:55:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:55:08 --> Migrations Class Initialized
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:55:08 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:55:08 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:55:08 --> Final output sent to browser
+DEBUG - 2021-04-20 09:55:08 --> Total execution time: 0.2075
+INFO - 2021-04-20 13:55:11 --> Config Class Initialized
+INFO - 2021-04-20 13:55:11 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:55:11 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:55:11 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:55:11 --> URI Class Initialized
+INFO - 2021-04-20 13:55:11 --> Router Class Initialized
+INFO - 2021-04-20 13:55:11 --> Output Class Initialized
+INFO - 2021-04-20 13:55:11 --> Security Class Initialized
+DEBUG - 2021-04-20 13:55:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:55:11 --> CSRF cookie sent
+INFO - 2021-04-20 13:55:11 --> Input Class Initialized
+INFO - 2021-04-20 13:55:11 --> Language Class Initialized
+INFO - 2021-04-20 13:55:11 --> Loader Class Initialized
+INFO - 2021-04-20 13:55:11 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:55:11 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:55:11 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:55:11 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:55:11 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:55:11 --> User Agent Class Initialized
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:55:11 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:55:11 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:55:11 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:55:11 --> Encryption Class Initialized
+INFO - 2021-04-20 13:55:11 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Person" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Customer" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Employee" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Module" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Item" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Sale" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Expense" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Tax" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:55:11 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:55:11 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:55:11 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:55:11 --> Migrations Class Initialized
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:55:11 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:55:11 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:55:11 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+INFO - 2021-04-20 09:55:11 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\suppliers/form.php
+INFO - 2021-04-20 09:55:11 --> Final output sent to browser
+DEBUG - 2021-04-20 09:55:11 --> Total execution time: 0.2006
+INFO - 2021-04-20 13:56:32 --> Config Class Initialized
+INFO - 2021-04-20 13:56:32 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:56:32 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:56:32 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:56:32 --> URI Class Initialized
+INFO - 2021-04-20 13:56:32 --> Router Class Initialized
+INFO - 2021-04-20 13:56:32 --> Output Class Initialized
+INFO - 2021-04-20 13:56:32 --> Security Class Initialized
+DEBUG - 2021-04-20 13:56:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:56:32 --> CSRF cookie sent
+INFO - 2021-04-20 13:56:32 --> Input Class Initialized
+INFO - 2021-04-20 13:56:32 --> Language Class Initialized
+INFO - 2021-04-20 13:56:32 --> Loader Class Initialized
+INFO - 2021-04-20 13:56:32 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:56:32 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:56:32 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:56:33 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:56:33 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:56:33 --> User Agent Class Initialized
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:56:33 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:56:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:56:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:56:33 --> Encryption Class Initialized
+INFO - 2021-04-20 13:56:33 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Person" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Customer" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Employee" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Module" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Sale" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Expense" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Tax" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:56:33 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:56:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:56:33 --> Migrations Class Initialized
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:56:33 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:56:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:56:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:56:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:56:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/daterangepicker.php
+INFO - 2021-04-20 09:56:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:56:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/print_receipt.php
+INFO - 2021-04-20 09:56:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:56:33 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\expenses/manage.php
+INFO - 2021-04-20 09:56:33 --> Final output sent to browser
+DEBUG - 2021-04-20 09:56:33 --> Total execution time: 0.1930
+INFO - 2021-04-20 13:56:33 --> Config Class Initialized
+INFO - 2021-04-20 13:56:33 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:56:33 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:56:33 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:56:33 --> URI Class Initialized
+INFO - 2021-04-20 13:56:33 --> Router Class Initialized
+INFO - 2021-04-20 13:56:33 --> Output Class Initialized
+INFO - 2021-04-20 13:56:33 --> Security Class Initialized
+DEBUG - 2021-04-20 13:56:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:56:33 --> CSRF cookie sent
+INFO - 2021-04-20 13:56:33 --> Input Class Initialized
+INFO - 2021-04-20 13:56:33 --> Language Class Initialized
+INFO - 2021-04-20 13:56:33 --> Loader Class Initialized
+INFO - 2021-04-20 13:56:33 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:56:33 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:56:33 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:56:33 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:56:33 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:56:33 --> User Agent Class Initialized
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:56:33 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:56:33 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:56:33 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:56:33 --> Encryption Class Initialized
+INFO - 2021-04-20 13:56:33 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Person" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Customer" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Employee" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Module" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Sale" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Expense" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Tax" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:56:33 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:56:33 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:56:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:56:33 --> Migrations Class Initialized
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:56:33 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:56:33 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:56:33 --> Final output sent to browser
+DEBUG - 2021-04-20 09:56:33 --> Total execution time: 0.2947
+INFO - 2021-04-20 13:56:35 --> Config Class Initialized
+INFO - 2021-04-20 13:56:35 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:56:35 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:56:35 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:56:35 --> URI Class Initialized
+INFO - 2021-04-20 13:56:35 --> Router Class Initialized
+INFO - 2021-04-20 13:56:35 --> Output Class Initialized
+INFO - 2021-04-20 13:56:35 --> Security Class Initialized
+DEBUG - 2021-04-20 13:56:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:56:35 --> CSRF cookie sent
+INFO - 2021-04-20 13:56:35 --> Input Class Initialized
+INFO - 2021-04-20 13:56:35 --> Language Class Initialized
+INFO - 2021-04-20 13:56:35 --> Loader Class Initialized
+INFO - 2021-04-20 13:56:35 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:56:35 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:56:35 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:56:35 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:56:35 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:56:35 --> User Agent Class Initialized
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:56:35 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:56:35 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:56:35 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:56:35 --> Encryption Class Initialized
+INFO - 2021-04-20 13:56:35 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Person" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Customer" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Employee" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Module" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Item" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Sale" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Expense" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Tax" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:56:35 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:56:35 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:56:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:56:35 --> Migrations Class Initialized
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:56:35 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:56:35 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:56:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/datepicker_locale.php
+ERROR - 2021-04-20 09:56:35 --> Could not find the language line "expenses_tax_amount_number (TBD)"
+INFO - 2021-04-20 09:56:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\expenses/form.php
+INFO - 2021-04-20 09:56:35 --> Final output sent to browser
+DEBUG - 2021-04-20 09:56:35 --> Total execution time: 0.2249
+INFO - 2021-04-20 13:57:24 --> Config Class Initialized
+INFO - 2021-04-20 13:57:24 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:24 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:24 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:24 --> URI Class Initialized
+INFO - 2021-04-20 13:57:24 --> Router Class Initialized
+INFO - 2021-04-20 13:57:24 --> Output Class Initialized
+INFO - 2021-04-20 13:57:24 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:24 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:24 --> Input Class Initialized
+INFO - 2021-04-20 13:57:24 --> Language Class Initialized
+INFO - 2021-04-20 13:57:24 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:24 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:24 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:24 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:24 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:24 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:24 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:24 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:24 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:24 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:24 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:24 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:24 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:24 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:24 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:57:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:57:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:57:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:57:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:57:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\expenses_categories/manage.php
+INFO - 2021-04-20 09:57:24 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:24 --> Total execution time: 0.1790
+INFO - 2021-04-20 13:57:25 --> Config Class Initialized
+INFO - 2021-04-20 13:57:25 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:25 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:25 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:25 --> URI Class Initialized
+INFO - 2021-04-20 13:57:25 --> Router Class Initialized
+INFO - 2021-04-20 13:57:25 --> Output Class Initialized
+INFO - 2021-04-20 13:57:25 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:25 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:25 --> Input Class Initialized
+INFO - 2021-04-20 13:57:25 --> Language Class Initialized
+INFO - 2021-04-20 13:57:25 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:25 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:25 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:25 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:25 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:25 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:25 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:25 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:25 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:25 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:25 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:25 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:25 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:25 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:25 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:25 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:25 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:25 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:25 --> Total execution time: 0.3311
+INFO - 2021-04-20 13:57:26 --> Config Class Initialized
+INFO - 2021-04-20 13:57:26 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:26 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:26 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:26 --> URI Class Initialized
+INFO - 2021-04-20 13:57:26 --> Router Class Initialized
+INFO - 2021-04-20 13:57:26 --> Output Class Initialized
+INFO - 2021-04-20 13:57:26 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:26 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:26 --> Input Class Initialized
+INFO - 2021-04-20 13:57:26 --> Language Class Initialized
+INFO - 2021-04-20 13:57:26 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:26 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:26 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:26 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:26 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:26 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:26 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:26 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:26 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:26 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:26 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:26 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:26 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:26 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:26 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:26 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\expenses_categories/form.php
+INFO - 2021-04-20 09:57:26 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:26 --> Total execution time: 0.2056
+INFO - 2021-04-20 13:57:35 --> Config Class Initialized
+INFO - 2021-04-20 13:57:35 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:35 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:35 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:35 --> URI Class Initialized
+INFO - 2021-04-20 13:57:35 --> Router Class Initialized
+INFO - 2021-04-20 13:57:35 --> Output Class Initialized
+INFO - 2021-04-20 13:57:35 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:35 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:35 --> Input Class Initialized
+INFO - 2021-04-20 13:57:35 --> Language Class Initialized
+INFO - 2021-04-20 13:57:35 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:35 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:35 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:35 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:35 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:35 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:35 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:35 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:35 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:35 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:35 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:35 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:35 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:35 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:35 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:35 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:35 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:35 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:57:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:57:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:57:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/daterangepicker.php
+INFO - 2021-04-20 09:57:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:57:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/print_receipt.php
+INFO - 2021-04-20 09:57:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:57:35 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\cashups/manage.php
+INFO - 2021-04-20 09:57:35 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:35 --> Total execution time: 0.1781
+INFO - 2021-04-20 13:57:36 --> Config Class Initialized
+INFO - 2021-04-20 13:57:36 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:36 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:36 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:36 --> URI Class Initialized
+INFO - 2021-04-20 13:57:36 --> Router Class Initialized
+INFO - 2021-04-20 13:57:36 --> Output Class Initialized
+INFO - 2021-04-20 13:57:36 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:36 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:36 --> Input Class Initialized
+INFO - 2021-04-20 13:57:36 --> Language Class Initialized
+INFO - 2021-04-20 13:57:36 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:36 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:36 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:36 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:36 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:36 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:36 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:36 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:36 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:36 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:36 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:36 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:36 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:36 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:36 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:36 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:36 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:36 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:36 --> Total execution time: 0.3807
+INFO - 2021-04-20 13:57:45 --> Config Class Initialized
+INFO - 2021-04-20 13:57:45 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:45 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:45 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:45 --> URI Class Initialized
+INFO - 2021-04-20 13:57:45 --> Router Class Initialized
+INFO - 2021-04-20 13:57:45 --> Output Class Initialized
+INFO - 2021-04-20 13:57:45 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:45 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:45 --> Input Class Initialized
+INFO - 2021-04-20 13:57:45 --> Language Class Initialized
+INFO - 2021-04-20 13:57:45 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:45 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:45 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:45 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:45 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:45 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:45 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:45 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:45 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:45 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:45 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:45 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:45 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:45 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:45 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:45 --> Language file loaded: language/en-US/taxes_lang.php
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "name_lang_key (TBD)"
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "desc_lang_key (TBD)"
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "sort (TBD)"
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "module_id (TBD)"
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "status (TBD)"
+INFO - 2021-04-20 09:57:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:57:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:57:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "modules_no_modules_to_display (TBD)"
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "modules_confirm_delete (TBD)"
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "modules_confirm_restore (TBD)"
+INFO - 2021-04-20 09:57:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "modules_new (TBD)"
+ERROR - 2021-04-20 09:57:45 --> Could not find the language line "modules_new (TBD)"
+INFO - 2021-04-20 09:57:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:57:45 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\modules/manage.php
+INFO - 2021-04-20 09:57:45 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:45 --> Total execution time: 0.2239
+INFO - 2021-04-20 13:57:45 --> Config Class Initialized
+INFO - 2021-04-20 13:57:45 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:45 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:45 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:45 --> URI Class Initialized
+INFO - 2021-04-20 13:57:45 --> Router Class Initialized
+INFO - 2021-04-20 13:57:45 --> Output Class Initialized
+INFO - 2021-04-20 13:57:45 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:45 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:45 --> Input Class Initialized
+INFO - 2021-04-20 13:57:45 --> Language Class Initialized
+INFO - 2021-04-20 13:57:45 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:45 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:45 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:46 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:46 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:46 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:46 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:46 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:46 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:46 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:46 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:46 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:46 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/taxes_lang.php
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "modules_update (TBD)"
+INFO - 2021-04-20 09:57:46 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:46 --> Total execution time: 0.3698
+INFO - 2021-04-20 13:57:46 --> Config Class Initialized
+INFO - 2021-04-20 13:57:46 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:46 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:46 --> URI Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> No URI present. Default controller set.
+INFO - 2021-04-20 13:57:46 --> Router Class Initialized
+INFO - 2021-04-20 13:57:46 --> Output Class Initialized
+INFO - 2021-04-20 13:57:46 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:46 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:46 --> Input Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language Class Initialized
+INFO - 2021-04-20 13:57:46 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:46 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:46 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:46 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:46 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:46 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:46 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:46 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:46 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:46 --> Controller Class Initialized
+INFO - 2021-04-20 13:57:46 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:46 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:57:46 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:46 --> Config Class Initialized
+INFO - 2021-04-20 13:57:46 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:46 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:46 --> URI Class Initialized
+INFO - 2021-04-20 13:57:46 --> Router Class Initialized
+INFO - 2021-04-20 13:57:46 --> Output Class Initialized
+INFO - 2021-04-20 13:57:46 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:46 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:46 --> Input Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language Class Initialized
+INFO - 2021-04-20 13:57:46 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:46 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:46 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:46 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:46 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:46 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:46 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:46 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:46 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:46 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:46 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:46 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:46 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:46 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:46 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:46 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:46 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:46 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:57:46 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:57:46 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:57:46 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:57:46 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:57:46 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:57:46 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:46 --> Total execution time: 0.1827
+INFO - 2021-04-20 13:57:48 --> Config Class Initialized
+INFO - 2021-04-20 13:57:48 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:48 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:48 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:48 --> URI Class Initialized
+INFO - 2021-04-20 13:57:48 --> Router Class Initialized
+INFO - 2021-04-20 13:57:48 --> Output Class Initialized
+INFO - 2021-04-20 13:57:48 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:48 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:48 --> Input Class Initialized
+INFO - 2021-04-20 13:57:48 --> Language Class Initialized
+INFO - 2021-04-20 13:57:48 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:48 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:48 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:48 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:48 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:48 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:48 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:48 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:48 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:48 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:48 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:48 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:48 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:48 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:48 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:48 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:48 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:48 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:57:48 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:57:48 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:57:48 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:57:48 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/office.php
+INFO - 2021-04-20 09:57:48 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:48 --> Total execution time: 0.1792
+INFO - 2021-04-20 13:57:49 --> Config Class Initialized
+INFO - 2021-04-20 13:57:49 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:49 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:49 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:49 --> URI Class Initialized
+INFO - 2021-04-20 13:57:49 --> Router Class Initialized
+INFO - 2021-04-20 13:57:49 --> Output Class Initialized
+INFO - 2021-04-20 13:57:49 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:49 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:49 --> Input Class Initialized
+INFO - 2021-04-20 13:57:49 --> Language Class Initialized
+INFO - 2021-04-20 13:57:49 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:49 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:49 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:49 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:49 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:49 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:49 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:49 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:49 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:49 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:49 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:49 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:49 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:49 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:49 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:49 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:49 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:49 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:57:49 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:57:49 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:57:49 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+INFO - 2021-04-20 09:57:49 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:57:49 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/manage.php
+INFO - 2021-04-20 09:57:49 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:49 --> Total execution time: 0.1861
+INFO - 2021-04-20 13:57:50 --> Config Class Initialized
+INFO - 2021-04-20 13:57:50 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:50 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:50 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:50 --> URI Class Initialized
+INFO - 2021-04-20 13:57:50 --> Router Class Initialized
+INFO - 2021-04-20 13:57:50 --> Output Class Initialized
+INFO - 2021-04-20 13:57:50 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:50 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:50 --> Input Class Initialized
+INFO - 2021-04-20 13:57:50 --> Language Class Initialized
+INFO - 2021-04-20 13:57:50 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:50 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:50 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:50 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:50 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:50 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:50 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:50 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:50 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:50 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:50 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:50 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:50 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:50 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:50 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:50 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:50 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:50 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:50 --> Total execution time: 0.3762
+INFO - 2021-04-20 13:57:50 --> Config Class Initialized
+INFO - 2021-04-20 13:57:50 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:57:50 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:57:50 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:57:50 --> URI Class Initialized
+INFO - 2021-04-20 13:57:50 --> Router Class Initialized
+INFO - 2021-04-20 13:57:50 --> Output Class Initialized
+INFO - 2021-04-20 13:57:50 --> Security Class Initialized
+DEBUG - 2021-04-20 13:57:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:57:50 --> CSRF cookie sent
+INFO - 2021-04-20 13:57:50 --> Input Class Initialized
+INFO - 2021-04-20 13:57:50 --> Language Class Initialized
+INFO - 2021-04-20 13:57:50 --> Loader Class Initialized
+INFO - 2021-04-20 13:57:50 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:57:51 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:57:51 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:57:51 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:57:51 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:57:51 --> User Agent Class Initialized
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:57:51 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:57:51 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:57:51 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:57:51 --> Encryption Class Initialized
+INFO - 2021-04-20 13:57:51 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Person" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Customer" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Employee" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Module" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Item" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Sale" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Expense" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Tax" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:57:51 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:57:51 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:57:51 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:57:51 --> Migrations Class Initialized
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:57:51 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:57:51 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:57:51 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\people/form_basic_info.php
+ERROR - 2021-04-20 09:57:51 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:57:51 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\employees/form.php
+INFO - 2021-04-20 09:57:51 --> Final output sent to browser
+DEBUG - 2021-04-20 09:57:51 --> Total execution time: 0.3359
+INFO - 2021-04-20 13:58:18 --> Config Class Initialized
+INFO - 2021-04-20 13:58:18 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:58:18 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:58:18 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:58:18 --> URI Class Initialized
+INFO - 2021-04-20 13:58:18 --> Router Class Initialized
+INFO - 2021-04-20 13:58:18 --> Output Class Initialized
+INFO - 2021-04-20 13:58:18 --> Security Class Initialized
+DEBUG - 2021-04-20 13:58:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:58:18 --> CSRF cookie sent
+INFO - 2021-04-20 13:58:18 --> Input Class Initialized
+INFO - 2021-04-20 13:58:18 --> Language Class Initialized
+INFO - 2021-04-20 13:58:18 --> Loader Class Initialized
+INFO - 2021-04-20 13:58:18 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:58:18 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:58:18 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:58:18 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:58:18 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:58:18 --> User Agent Class Initialized
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:58:18 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:58:18 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:58:18 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:58:18 --> Encryption Class Initialized
+INFO - 2021-04-20 13:58:18 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Person" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Customer" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Employee" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Module" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Item" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Sale" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Expense" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Tax" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:58:18 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:58:18 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:58:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:58:18 --> Model "Rounding_mode" initialized
+INFO - 2021-04-20 13:58:18 --> Migrations Class Initialized
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:58:18 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:58:18 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:58:18 --> Helper loaded: language_helper
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/info_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/general_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/tax_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/locale_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/barcode_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/stock_locations.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/stock_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/receipt_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/invoice_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/customer_rewards.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/reward_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/dinner_tables.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/table_config.php
+INFO - 2021-04-20 09:58:18 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/system_info.php
+INFO - 2021-04-20 09:58:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/email_config.php
+INFO - 2021-04-20 09:58:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/message_config.php
+INFO - 2021-04-20 09:58:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/integrations_config.php
+INFO - 2021-04-20 09:58:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/license_config.php
+INFO - 2021-04-20 09:58:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/system_config.php
+INFO - 2021-04-20 09:58:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:58:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\configs/manage.php
+INFO - 2021-04-20 09:58:19 --> Final output sent to browser
+DEBUG - 2021-04-20 09:58:19 --> Total execution time: 0.2928
+INFO - 2021-04-20 13:58:28 --> Config Class Initialized
+INFO - 2021-04-20 13:58:28 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:58:28 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:58:28 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:58:28 --> URI Class Initialized
+DEBUG - 2021-04-20 13:58:28 --> No URI present. Default controller set.
+INFO - 2021-04-20 13:58:28 --> Router Class Initialized
+INFO - 2021-04-20 13:58:28 --> Output Class Initialized
+INFO - 2021-04-20 13:58:28 --> Security Class Initialized
+DEBUG - 2021-04-20 13:58:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:58:28 --> CSRF cookie sent
+INFO - 2021-04-20 13:58:28 --> Input Class Initialized
+INFO - 2021-04-20 13:58:28 --> Language Class Initialized
+INFO - 2021-04-20 13:58:28 --> Loader Class Initialized
+INFO - 2021-04-20 13:58:28 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:58:28 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:58:28 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:58:28 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:58:28 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:58:28 --> User Agent Class Initialized
+INFO - 2021-04-20 13:58:28 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:58:28 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:58:28 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:58:28 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:58:28 --> Encryption Class Initialized
+INFO - 2021-04-20 13:58:28 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Person" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Customer" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Employee" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Module" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Item" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Sale" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Expense" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Tax" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:58:28 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:58:28 --> Controller Class Initialized
+INFO - 2021-04-20 13:58:28 --> Migrations Class Initialized
+INFO - 2021-04-20 13:58:28 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:58:29 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 09:58:29 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:58:29 --> Config Class Initialized
+INFO - 2021-04-20 13:58:29 --> Hooks Class Initialized
+DEBUG - 2021-04-20 13:58:29 --> UTF-8 Support Enabled
+INFO - 2021-04-20 13:58:29 --> Utf8 Class Initialized
+INFO - 2021-04-20 13:58:29 --> URI Class Initialized
+INFO - 2021-04-20 13:58:29 --> Router Class Initialized
+INFO - 2021-04-20 13:58:29 --> Output Class Initialized
+INFO - 2021-04-20 13:58:29 --> Security Class Initialized
+DEBUG - 2021-04-20 13:58:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 13:58:29 --> CSRF cookie sent
+INFO - 2021-04-20 13:58:29 --> Input Class Initialized
+INFO - 2021-04-20 13:58:29 --> Language Class Initialized
+INFO - 2021-04-20 13:58:29 --> Loader Class Initialized
+INFO - 2021-04-20 13:58:29 --> Helper loaded: form_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: url_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: text_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: locale_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: html_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: download_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: directory_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: migration_helper
+INFO - 2021-04-20 13:58:29 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 13:58:29 --> Database Driver Class Initialized
+INFO - 2021-04-20 13:58:29 --> Form Validation Class Initialized
+INFO - 2021-04-20 13:58:29 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 13:58:29 --> User Agent Class Initialized
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 13:58:29 --> Pagination Class Initialized
+DEBUG - 2021-04-20 13:58:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 13:58:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 13:58:29 --> Encryption Class Initialized
+INFO - 2021-04-20 13:58:29 --> Model "Appconfig" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Person" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Customer" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Employee" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Module" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Item" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Sale" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Supplier" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Inventory" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Receiving" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Giftcard" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Item_kit" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Stock_location" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Rewards" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Expense_category" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Expense" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Cashup" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Attribute" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Tax" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Tax_category" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Tax_code" initialized
+INFO - 2021-04-20 13:58:29 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 13:58:29 --> Controller Class Initialized
+DEBUG - 2021-04-20 13:58:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:58:29 --> Migrations Class Initialized
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 13:58:29 --> Database Forge Class Initialized
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 13:58:29 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 09:58:29 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 09:58:29 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 09:58:29 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 09:58:29 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 09:58:29 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 09:58:29 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 09:58:29 --> Final output sent to browser
+DEBUG - 2021-04-20 09:58:29 --> Total execution time: 0.1750
+INFO - 2021-04-20 15:22:17 --> Config Class Initialized
+INFO - 2021-04-20 15:22:17 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:17 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:17 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:17 --> URI Class Initialized
+INFO - 2021-04-20 15:22:17 --> Router Class Initialized
+INFO - 2021-04-20 15:22:17 --> Output Class Initialized
+INFO - 2021-04-20 15:22:17 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:17 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:17 --> Input Class Initialized
+INFO - 2021-04-20 15:22:17 --> Language Class Initialized
+INFO - 2021-04-20 15:22:17 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:17 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:17 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:17 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:17 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:17 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:17 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:17 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:17 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:17 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:17 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:17 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:17 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:17 --> Controller Class Initialized
+DEBUG - 2021-04-20 15:22:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 15:22:17 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:17 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:17 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 11:22:17 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 11:22:17 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 11:22:17 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 11:22:17 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 11:22:17 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 11:22:17 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 11:22:17 --> Final output sent to browser
+DEBUG - 2021-04-20 11:22:17 --> Total execution time: 0.1766
+INFO - 2021-04-20 15:22:19 --> Config Class Initialized
+INFO - 2021-04-20 15:22:19 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:19 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:19 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:19 --> URI Class Initialized
+INFO - 2021-04-20 15:22:19 --> Router Class Initialized
+INFO - 2021-04-20 15:22:19 --> Output Class Initialized
+INFO - 2021-04-20 15:22:19 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:19 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:19 --> Input Class Initialized
+INFO - 2021-04-20 15:22:19 --> Language Class Initialized
+INFO - 2021-04-20 15:22:19 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:19 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:19 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:19 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:19 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:19 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:19 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:19 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:19 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:19 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:19 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:19 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:19 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:19 --> Controller Class Initialized
+DEBUG - 2021-04-20 15:22:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 15:22:19 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:19 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:19 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 11:22:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 11:22:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 11:22:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 11:22:19 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 11:22:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 11:22:19 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 11:22:19 --> Final output sent to browser
+DEBUG - 2021-04-20 11:22:19 --> Total execution time: 0.1985
+INFO - 2021-04-20 15:22:22 --> Config Class Initialized
+INFO - 2021-04-20 15:22:22 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:22 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:22 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:22 --> URI Class Initialized
+INFO - 2021-04-20 15:22:22 --> Router Class Initialized
+INFO - 2021-04-20 15:22:22 --> Output Class Initialized
+INFO - 2021-04-20 15:22:22 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:22 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:22 --> Input Class Initialized
+INFO - 2021-04-20 15:22:22 --> Language Class Initialized
+INFO - 2021-04-20 15:22:22 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:22 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:22 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:22 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:22 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:22 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:22 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:22 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:22 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:22 --> Controller Class Initialized
+DEBUG - 2021-04-20 15:22:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 15:22:22 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:22 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/taxes_lang.php
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "name_lang_key (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "desc_lang_key (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "sort (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "module_id (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "status (TBD)"
+INFO - 2021-04-20 11:22:22 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 11:22:22 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 11:22:22 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_no_modules_to_display (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_confirm_delete (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_confirm_restore (TBD)"
+INFO - 2021-04-20 11:22:22 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/bootstrap_tables_locale.php
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_new (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_new (TBD)"
+INFO - 2021-04-20 11:22:22 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 11:22:22 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\modules/manage.php
+INFO - 2021-04-20 11:22:22 --> Final output sent to browser
+DEBUG - 2021-04-20 11:22:22 --> Total execution time: 0.1625
+INFO - 2021-04-20 15:22:22 --> Config Class Initialized
+INFO - 2021-04-20 15:22:22 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:22 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:22 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:22 --> URI Class Initialized
+INFO - 2021-04-20 15:22:22 --> Router Class Initialized
+INFO - 2021-04-20 15:22:22 --> Output Class Initialized
+INFO - 2021-04-20 15:22:22 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:22 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:22 --> Input Class Initialized
+INFO - 2021-04-20 15:22:22 --> Language Class Initialized
+INFO - 2021-04-20 15:22:22 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:22 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:22 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:22 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:22 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:22 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:22 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:22 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:22 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:22 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:22 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:22 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:22 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:22 --> Controller Class Initialized
+DEBUG - 2021-04-20 15:22:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 15:22:22 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:22 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:22 --> Language file loaded: language/en-US/taxes_lang.php
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+ERROR - 2021-04-20 11:22:22 --> Could not find the language line "modules_update (TBD)"
+INFO - 2021-04-20 11:22:22 --> Final output sent to browser
+DEBUG - 2021-04-20 11:22:22 --> Total execution time: 0.2031
+INFO - 2021-04-20 15:22:24 --> Config Class Initialized
+INFO - 2021-04-20 15:22:24 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:24 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:24 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:24 --> URI Class Initialized
+DEBUG - 2021-04-20 15:22:24 --> No URI present. Default controller set.
+INFO - 2021-04-20 15:22:24 --> Router Class Initialized
+INFO - 2021-04-20 15:22:24 --> Output Class Initialized
+INFO - 2021-04-20 15:22:24 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:24 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:24 --> Input Class Initialized
+INFO - 2021-04-20 15:22:24 --> Language Class Initialized
+INFO - 2021-04-20 15:22:24 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:24 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:24 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:24 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:24 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:24 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:24 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:24 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:24 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:24 --> Controller Class Initialized
+INFO - 2021-04-20 15:22:24 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:24 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 11:22:24 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 15:22:24 --> Config Class Initialized
+INFO - 2021-04-20 15:22:24 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:24 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:24 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:24 --> URI Class Initialized
+INFO - 2021-04-20 15:22:24 --> Router Class Initialized
+INFO - 2021-04-20 15:22:24 --> Output Class Initialized
+INFO - 2021-04-20 15:22:24 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:24 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:24 --> Input Class Initialized
+INFO - 2021-04-20 15:22:24 --> Language Class Initialized
+INFO - 2021-04-20 15:22:24 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:24 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:24 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:24 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:24 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:24 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:24 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:24 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:24 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:24 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:24 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:24 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:24 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:24 --> Controller Class Initialized
+DEBUG - 2021-04-20 15:22:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 15:22:24 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:24 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:24 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 11:22:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 11:22:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 11:22:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 11:22:24 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 11:22:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 11:22:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 11:22:24 --> Final output sent to browser
+DEBUG - 2021-04-20 11:22:24 --> Total execution time: 0.1579
+INFO - 2021-04-20 15:22:26 --> Config Class Initialized
+INFO - 2021-04-20 15:22:26 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:26 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:26 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:26 --> URI Class Initialized
+INFO - 2021-04-20 15:22:26 --> Router Class Initialized
+INFO - 2021-04-20 15:22:26 --> Output Class Initialized
+INFO - 2021-04-20 15:22:26 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:26 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:26 --> Input Class Initialized
+INFO - 2021-04-20 15:22:26 --> Language Class Initialized
+INFO - 2021-04-20 15:22:26 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:26 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:26 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:26 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:26 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:26 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:26 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:26 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:26 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:26 --> Controller Class Initialized
+DEBUG - 2021-04-20 15:22:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 15:22:26 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:26 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 15:22:26 --> Config Class Initialized
+INFO - 2021-04-20 15:22:26 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:26 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:26 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:26 --> URI Class Initialized
+INFO - 2021-04-20 15:22:26 --> Router Class Initialized
+INFO - 2021-04-20 15:22:26 --> Output Class Initialized
+INFO - 2021-04-20 15:22:26 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:26 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:26 --> Input Class Initialized
+INFO - 2021-04-20 15:22:26 --> Language Class Initialized
+INFO - 2021-04-20 15:22:26 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:26 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:26 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:26 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:26 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:26 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:26 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:26 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:26 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:26 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:26 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:26 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:26 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:26 --> Controller Class Initialized
+INFO - 2021-04-20 15:22:26 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:26 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:26 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 11:22:26 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 11:22:26 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 11:22:26 --> Final output sent to browser
+DEBUG - 2021-04-20 11:22:26 --> Total execution time: 0.1639
+INFO - 2021-04-20 15:22:29 --> Config Class Initialized
+INFO - 2021-04-20 15:22:29 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:22:29 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:22:29 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:22:29 --> URI Class Initialized
+INFO - 2021-04-20 15:22:29 --> Router Class Initialized
+INFO - 2021-04-20 15:22:29 --> Output Class Initialized
+INFO - 2021-04-20 15:22:29 --> Security Class Initialized
+DEBUG - 2021-04-20 15:22:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:22:29 --> CSRF cookie sent
+INFO - 2021-04-20 15:22:29 --> Input Class Initialized
+INFO - 2021-04-20 15:22:29 --> Language Class Initialized
+INFO - 2021-04-20 15:22:29 --> Loader Class Initialized
+INFO - 2021-04-20 15:22:29 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:22:29 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:22:29 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:22:29 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:22:29 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:22:29 --> User Agent Class Initialized
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:22:29 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:22:29 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:22:29 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:22:29 --> Encryption Class Initialized
+INFO - 2021-04-20 15:22:29 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Person" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Customer" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Employee" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Module" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Item" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Sale" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Expense" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Tax" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:22:29 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:22:29 --> Controller Class Initialized
+INFO - 2021-04-20 15:22:29 --> Migrations Class Initialized
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:22:29 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:22:29 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 11:22:29 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 11:22:29 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 11:22:29 --> Final output sent to browser
+DEBUG - 2021-04-20 11:22:29 --> Total execution time: 0.1630
+INFO - 2021-04-20 15:23:39 --> Config Class Initialized
+INFO - 2021-04-20 15:23:39 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:23:39 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:23:39 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:23:39 --> URI Class Initialized
+INFO - 2021-04-20 15:23:39 --> Router Class Initialized
+INFO - 2021-04-20 15:23:39 --> Output Class Initialized
+INFO - 2021-04-20 15:23:39 --> Security Class Initialized
+DEBUG - 2021-04-20 15:23:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:23:39 --> CSRF cookie sent
+INFO - 2021-04-20 15:23:39 --> Input Class Initialized
+INFO - 2021-04-20 15:23:39 --> Language Class Initialized
+INFO - 2021-04-20 15:23:39 --> Loader Class Initialized
+INFO - 2021-04-20 15:23:39 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:23:39 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:23:39 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:23:39 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:23:39 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:23:39 --> User Agent Class Initialized
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:23:39 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:23:39 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:23:39 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:23:39 --> Encryption Class Initialized
+INFO - 2021-04-20 15:23:39 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Person" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Customer" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Employee" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Module" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Item" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Sale" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Expense" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Tax" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:23:39 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:23:39 --> Controller Class Initialized
+INFO - 2021-04-20 15:23:39 --> Migrations Class Initialized
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:23:39 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:23:39 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 11:23:39 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 11:23:39 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 11:23:39 --> Final output sent to browser
+DEBUG - 2021-04-20 11:23:39 --> Total execution time: 0.1738
+INFO - 2021-04-20 15:23:40 --> Config Class Initialized
+INFO - 2021-04-20 15:23:40 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:23:40 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:23:40 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:23:40 --> URI Class Initialized
+INFO - 2021-04-20 15:23:40 --> Router Class Initialized
+INFO - 2021-04-20 15:23:40 --> Output Class Initialized
+INFO - 2021-04-20 15:23:40 --> Security Class Initialized
+DEBUG - 2021-04-20 15:23:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:23:40 --> CSRF cookie sent
+INFO - 2021-04-20 15:23:40 --> Input Class Initialized
+INFO - 2021-04-20 15:23:40 --> Language Class Initialized
+INFO - 2021-04-20 15:23:40 --> Loader Class Initialized
+INFO - 2021-04-20 15:23:40 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:23:40 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:23:40 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:23:40 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:23:40 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:23:40 --> User Agent Class Initialized
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:23:40 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:23:40 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:23:40 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:23:40 --> Encryption Class Initialized
+INFO - 2021-04-20 15:23:40 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Person" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Customer" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Employee" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Module" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Item" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Sale" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Expense" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Tax" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:23:40 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:23:40 --> Controller Class Initialized
+INFO - 2021-04-20 15:23:40 --> Migrations Class Initialized
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:23:40 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:23:40 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 11:23:40 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 11:23:40 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 11:23:40 --> Final output sent to browser
+DEBUG - 2021-04-20 11:23:40 --> Total execution time: 0.1562
+INFO - 2021-04-20 15:23:41 --> Config Class Initialized
+INFO - 2021-04-20 15:23:41 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:23:41 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:23:41 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:23:41 --> URI Class Initialized
+INFO - 2021-04-20 15:23:41 --> Router Class Initialized
+INFO - 2021-04-20 15:23:41 --> Output Class Initialized
+INFO - 2021-04-20 15:23:41 --> Security Class Initialized
+DEBUG - 2021-04-20 15:23:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:23:41 --> CSRF cookie sent
+INFO - 2021-04-20 15:23:41 --> Input Class Initialized
+INFO - 2021-04-20 15:23:41 --> Language Class Initialized
+INFO - 2021-04-20 15:23:41 --> Loader Class Initialized
+INFO - 2021-04-20 15:23:41 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:23:41 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:23:41 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:23:41 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:23:41 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:23:42 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:23:42 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:23:42 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:23:42 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:23:42 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:23:42 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:23:42 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:23:42 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:23:42 --> User Agent Class Initialized
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:23:42 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:23:42 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:23:42 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:23:42 --> Encryption Class Initialized
+INFO - 2021-04-20 15:23:42 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Person" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Customer" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Employee" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Module" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Item" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Sale" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Expense" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Tax" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:23:42 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:23:42 --> Controller Class Initialized
+INFO - 2021-04-20 15:23:42 --> Migrations Class Initialized
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:23:42 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:23:42 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 11:23:42 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 11:23:42 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 11:23:42 --> Final output sent to browser
+DEBUG - 2021-04-20 11:23:42 --> Total execution time: 0.1509
+INFO - 2021-04-20 15:24:26 --> Config Class Initialized
+INFO - 2021-04-20 15:24:26 --> Hooks Class Initialized
+DEBUG - 2021-04-20 15:24:26 --> UTF-8 Support Enabled
+INFO - 2021-04-20 15:24:26 --> Utf8 Class Initialized
+INFO - 2021-04-20 15:24:26 --> URI Class Initialized
+INFO - 2021-04-20 15:24:26 --> Router Class Initialized
+INFO - 2021-04-20 15:24:26 --> Output Class Initialized
+INFO - 2021-04-20 15:24:26 --> Security Class Initialized
+DEBUG - 2021-04-20 15:24:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 15:24:26 --> CSRF cookie sent
+INFO - 2021-04-20 15:24:26 --> Input Class Initialized
+INFO - 2021-04-20 15:24:26 --> Language Class Initialized
+INFO - 2021-04-20 15:24:27 --> Loader Class Initialized
+INFO - 2021-04-20 15:24:27 --> Helper loaded: form_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: url_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: text_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: locale_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: html_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: download_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: directory_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: migration_helper
+INFO - 2021-04-20 15:24:27 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 15:24:27 --> Database Driver Class Initialized
+INFO - 2021-04-20 15:24:27 --> Form Validation Class Initialized
+INFO - 2021-04-20 15:24:27 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 15:24:27 --> User Agent Class Initialized
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 15:24:27 --> Pagination Class Initialized
+DEBUG - 2021-04-20 15:24:27 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 15:24:27 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 15:24:27 --> Encryption Class Initialized
+INFO - 2021-04-20 15:24:27 --> Model "Appconfig" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Person" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Customer" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Employee" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Module" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Item" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Sale" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Supplier" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Inventory" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Receiving" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Giftcard" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Item_kit" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Stock_location" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Rewards" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Expense_category" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Expense" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Cashup" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Attribute" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Tax" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Tax_category" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Tax_code" initialized
+INFO - 2021-04-20 15:24:27 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 15:24:27 --> Controller Class Initialized
+INFO - 2021-04-20 15:24:27 --> Migrations Class Initialized
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 15:24:27 --> Database Forge Class Initialized
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 15:24:27 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 11:24:27 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 11:24:27 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 11:24:27 --> Final output sent to browser
+DEBUG - 2021-04-20 11:24:27 --> Total execution time: 0.1477
+INFO - 2021-04-20 17:20:15 --> Config Class Initialized
+INFO - 2021-04-20 17:20:15 --> Hooks Class Initialized
+DEBUG - 2021-04-20 17:20:15 --> UTF-8 Support Enabled
+INFO - 2021-04-20 17:20:15 --> Utf8 Class Initialized
+INFO - 2021-04-20 17:20:15 --> URI Class Initialized
+INFO - 2021-04-20 17:20:15 --> Router Class Initialized
+INFO - 2021-04-20 17:20:15 --> Output Class Initialized
+INFO - 2021-04-20 17:20:15 --> Security Class Initialized
+DEBUG - 2021-04-20 17:20:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 17:20:15 --> CSRF cookie sent
+INFO - 2021-04-20 17:20:15 --> Input Class Initialized
+INFO - 2021-04-20 17:20:15 --> Language Class Initialized
+INFO - 2021-04-20 17:20:15 --> Loader Class Initialized
+INFO - 2021-04-20 17:20:15 --> Helper loaded: form_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: url_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: text_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: locale_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: html_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: download_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: directory_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: migration_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 17:20:15 --> Database Driver Class Initialized
+INFO - 2021-04-20 17:20:15 --> Form Validation Class Initialized
+INFO - 2021-04-20 17:20:15 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 17:20:15 --> User Agent Class Initialized
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 17:20:15 --> Pagination Class Initialized
+DEBUG - 2021-04-20 17:20:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 17:20:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 17:20:15 --> Encryption Class Initialized
+INFO - 2021-04-20 17:20:15 --> Model "Appconfig" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Person" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Customer" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Employee" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Module" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Sale" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Supplier" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Inventory" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Receiving" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Giftcard" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item_kit" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Stock_location" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Rewards" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Expense_category" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Expense" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Cashup" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Attribute" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Tax" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Tax_category" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Tax_code" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 17:20:15 --> Controller Class Initialized
+INFO - 2021-04-20 17:20:15 --> Config Class Initialized
+INFO - 2021-04-20 17:20:15 --> Hooks Class Initialized
+DEBUG - 2021-04-20 17:20:15 --> UTF-8 Support Enabled
+INFO - 2021-04-20 17:20:15 --> Utf8 Class Initialized
+INFO - 2021-04-20 17:20:15 --> URI Class Initialized
+INFO - 2021-04-20 17:20:15 --> Router Class Initialized
+INFO - 2021-04-20 17:20:15 --> Output Class Initialized
+INFO - 2021-04-20 17:20:15 --> Security Class Initialized
+DEBUG - 2021-04-20 17:20:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 17:20:15 --> CSRF cookie sent
+INFO - 2021-04-20 17:20:15 --> Input Class Initialized
+INFO - 2021-04-20 17:20:15 --> Language Class Initialized
+INFO - 2021-04-20 17:20:15 --> Loader Class Initialized
+INFO - 2021-04-20 17:20:15 --> Helper loaded: form_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: url_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: text_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: locale_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: html_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: download_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: directory_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: migration_helper
+INFO - 2021-04-20 17:20:15 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 17:20:15 --> Database Driver Class Initialized
+INFO - 2021-04-20 17:20:15 --> Form Validation Class Initialized
+INFO - 2021-04-20 17:20:15 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 17:20:15 --> User Agent Class Initialized
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 17:20:15 --> Pagination Class Initialized
+DEBUG - 2021-04-20 17:20:15 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 17:20:15 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 17:20:15 --> Encryption Class Initialized
+INFO - 2021-04-20 17:20:15 --> Model "Appconfig" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Person" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Customer" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Employee" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Module" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Sale" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Supplier" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Inventory" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Receiving" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Giftcard" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item_kit" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Stock_location" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Rewards" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Expense_category" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Expense" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Cashup" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Attribute" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Tax" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Tax_category" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Tax_code" initialized
+INFO - 2021-04-20 17:20:15 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 17:20:15 --> Controller Class Initialized
+INFO - 2021-04-20 17:20:15 --> Migrations Class Initialized
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 17:20:15 --> Database Forge Class Initialized
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 17:20:15 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 13:20:15 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 13:20:15 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\login.php
+INFO - 2021-04-20 13:20:15 --> Final output sent to browser
+DEBUG - 2021-04-20 13:20:15 --> Total execution time: 0.1640
+INFO - 2021-04-20 17:20:23 --> Config Class Initialized
+INFO - 2021-04-20 17:20:23 --> Hooks Class Initialized
+DEBUG - 2021-04-20 17:20:23 --> UTF-8 Support Enabled
+INFO - 2021-04-20 17:20:23 --> Utf8 Class Initialized
+INFO - 2021-04-20 17:20:23 --> URI Class Initialized
+INFO - 2021-04-20 17:20:23 --> Router Class Initialized
+INFO - 2021-04-20 17:20:23 --> Output Class Initialized
+INFO - 2021-04-20 17:20:23 --> Security Class Initialized
+DEBUG - 2021-04-20 17:20:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 17:20:23 --> Input Class Initialized
+INFO - 2021-04-20 17:20:23 --> Language Class Initialized
+INFO - 2021-04-20 17:20:23 --> Loader Class Initialized
+INFO - 2021-04-20 17:20:23 --> Helper loaded: form_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: url_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: text_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: locale_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: html_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: download_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: directory_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: migration_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 17:20:23 --> Database Driver Class Initialized
+INFO - 2021-04-20 17:20:23 --> Form Validation Class Initialized
+INFO - 2021-04-20 17:20:23 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 17:20:23 --> User Agent Class Initialized
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 17:20:23 --> Pagination Class Initialized
+DEBUG - 2021-04-20 17:20:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 17:20:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 17:20:23 --> Encryption Class Initialized
+INFO - 2021-04-20 17:20:23 --> Model "Appconfig" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Person" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Customer" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Employee" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Module" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Item" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Sale" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Supplier" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Inventory" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Receiving" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Giftcard" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Item_kit" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Stock_location" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Rewards" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Expense_category" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Expense" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Cashup" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Attribute" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Tax" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Tax_category" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Tax_code" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 17:20:23 --> Controller Class Initialized
+INFO - 2021-04-20 17:20:23 --> Migrations Class Initialized
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 17:20:23 --> Database Forge Class Initialized
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/en-US/taxes_lang.php
+DEBUG - 2021-04-20 13:20:23 --> Migration class already loaded. Second attempt ignored.
+INFO - 2021-04-20 17:20:23 --> Config Class Initialized
+INFO - 2021-04-20 17:20:23 --> Hooks Class Initialized
+DEBUG - 2021-04-20 17:20:23 --> UTF-8 Support Enabled
+INFO - 2021-04-20 17:20:23 --> Utf8 Class Initialized
+INFO - 2021-04-20 17:20:23 --> URI Class Initialized
+INFO - 2021-04-20 17:20:23 --> Router Class Initialized
+INFO - 2021-04-20 17:20:23 --> Output Class Initialized
+INFO - 2021-04-20 17:20:23 --> Security Class Initialized
+DEBUG - 2021-04-20 17:20:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 17:20:23 --> CSRF cookie sent
+INFO - 2021-04-20 17:20:23 --> Input Class Initialized
+INFO - 2021-04-20 17:20:23 --> Language Class Initialized
+INFO - 2021-04-20 17:20:23 --> Loader Class Initialized
+INFO - 2021-04-20 17:20:23 --> Helper loaded: form_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: url_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: text_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: locale_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: html_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: download_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: directory_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: migration_helper
+INFO - 2021-04-20 17:20:23 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 17:20:23 --> Database Driver Class Initialized
+INFO - 2021-04-20 17:20:23 --> Form Validation Class Initialized
+INFO - 2021-04-20 17:20:23 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 17:20:23 --> User Agent Class Initialized
+INFO - 2021-04-20 17:20:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 17:20:23 --> Pagination Class Initialized
+DEBUG - 2021-04-20 17:20:23 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 17:20:23 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 17:20:23 --> Encryption Class Initialized
+INFO - 2021-04-20 17:20:23 --> Model "Appconfig" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Person" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Customer" initialized
+INFO - 2021-04-20 17:20:23 --> Model "Employee" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Module" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Item" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Sale" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Supplier" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Inventory" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Receiving" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Giftcard" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Item_kit" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Stock_location" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Rewards" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Expense_category" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Expense" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Cashup" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Attribute" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Tax" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Tax_category" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Tax_code" initialized
+INFO - 2021-04-20 17:20:24 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 17:20:24 --> Controller Class Initialized
+DEBUG - 2021-04-20 17:20:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 17:20:24 --> Migrations Class Initialized
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 17:20:24 --> Database Forge Class Initialized
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 17:20:24 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 13:20:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 13:20:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 13:20:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 13:20:24 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 13:20:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 13:20:24 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 13:20:24 --> Final output sent to browser
+DEBUG - 2021-04-20 13:20:24 --> Total execution time: 0.1538
+INFO - 2021-04-20 17:20:54 --> Config Class Initialized
+INFO - 2021-04-20 17:20:54 --> Hooks Class Initialized
+DEBUG - 2021-04-20 17:20:54 --> UTF-8 Support Enabled
+INFO - 2021-04-20 17:20:54 --> Utf8 Class Initialized
+INFO - 2021-04-20 17:20:54 --> URI Class Initialized
+INFO - 2021-04-20 17:20:54 --> Router Class Initialized
+INFO - 2021-04-20 17:20:54 --> Output Class Initialized
+INFO - 2021-04-20 17:20:54 --> Security Class Initialized
+DEBUG - 2021-04-20 17:20:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-04-20 17:20:54 --> CSRF cookie sent
+INFO - 2021-04-20 17:20:54 --> Input Class Initialized
+INFO - 2021-04-20 17:20:54 --> Language Class Initialized
+INFO - 2021-04-20 17:20:54 --> Loader Class Initialized
+INFO - 2021-04-20 17:20:54 --> Helper loaded: form_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: url_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: tabular_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: text_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: locale_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: html_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: download_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: directory_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: migration_helper
+INFO - 2021-04-20 17:20:54 --> Helper loaded: importfile_helper
+INFO - 2021-04-20 17:20:54 --> Database Driver Class Initialized
+INFO - 2021-04-20 17:20:54 --> Form Validation Class Initialized
+INFO - 2021-04-20 17:20:54 --> Session: Class initialized using 'database' driver.
+INFO - 2021-04-20 17:20:54 --> User Agent Class Initialized
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2021-04-20 17:20:54 --> Pagination Class Initialized
+DEBUG - 2021-04-20 17:20:54 --> Encryption: Auto-configured driver 'openssl'.
+INFO - 2021-04-20 17:20:54 --> Encryption: OpenSSL initialized with method AES-128-CBC.
+INFO - 2021-04-20 17:20:54 --> Encryption Class Initialized
+INFO - 2021-04-20 17:20:54 --> Model "Appconfig" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Person" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Customer" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Employee" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Module" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Item" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Item_taxes" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Sale" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Supplier" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Inventory" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Receiving" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Giftcard" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Item_kit" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Item_kit_items" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Stock_location" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Item_quantity" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Dinner_table" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Customer_rewards" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Rewards" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Expense_category" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Expense" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Cashup" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Attribute" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Tax" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Tax_category" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Tax_code" initialized
+INFO - 2021-04-20 17:20:54 --> Model "Tax_jurisdiction" initialized
+INFO - 2021-04-20 17:20:54 --> Controller Class Initialized
+DEBUG - 2021-04-20 17:20:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2021-04-20 17:20:54 --> Migrations Class Initialized
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/migration_lang.php
+INFO - 2021-04-20 17:20:54 --> Database Forge Class Initialized
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/calendar_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/date_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/db_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/email_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/ftp_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/imglib_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/number_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/unit_test_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/english/upload_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/attributes_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/bootstrap_tables_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/cashups_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/common_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/config_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/customers_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/datepicker_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/employees_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/enum_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/error_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/expenses_categories_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/expenses_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/giftcards_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/items_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/item_kits_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/login_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/messages_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/module_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/receivings_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/reports_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/sales_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/suppliers_lang.php
+INFO - 2021-04-20 17:20:54 --> Language file loaded: language/en-US/taxes_lang.php
+INFO - 2021-04-20 13:20:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header_js.php
+INFO - 2021-04-20 13:20:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/lang_lines.php
+INFO - 2021-04-20 13:20:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/header.php
+ERROR - 2021-04-20 13:20:54 --> Could not find the language line "module_modules_desc (TBD)"
+INFO - 2021-04-20 13:20:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\partial/footer.php
+INFO - 2021-04-20 13:20:54 --> File loaded: C:\Program Files\Ampps\www\hexapos\application\views\home/home.php
+INFO - 2021-04-20 13:20:54 --> Final output sent to browser
+DEBUG - 2021-04-20 13:20:54 --> Total execution time: 0.1800
