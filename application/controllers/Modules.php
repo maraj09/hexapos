@@ -34,6 +34,7 @@ class Modules extends Secure_Controller
             $id++;
         }
 
+
         echo json_encode(array('total' => $total_rows, 'rows' => $data_rows));
     }
     public function view($module_id = -1)
