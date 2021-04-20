@@ -936,12 +936,12 @@ class Config extends Secure_Controller
 
 			$prefs = array(
 				'format' => 'zip',
-				'filename' => 'ospos.sql'
+				'filename' => 'hexapos_db.sql'
 			);
 
 			$backup = $this->dbutil->backup($prefs);
 
-			$file_name = 'ospos-' . date("Y-m-d-H-i-s") .'.zip';
+			$file_name = 'hexapos-' . date("Y-m-d-H-i-s") .'.zip';
 			$save = 'uploads/' . $file_name;
 			$this->load->helper('download');
 			while(ob_get_level())
